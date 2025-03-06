@@ -101,7 +101,7 @@ with sync_playwright() as p:
         host=host,
         port=porta,
         database=banco,
-        query={"sslmode": "disable"}
+        query={"sslmode": "require"}
     )
 
     try:

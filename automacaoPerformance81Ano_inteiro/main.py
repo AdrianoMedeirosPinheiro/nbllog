@@ -133,7 +133,7 @@ def executar_script():
             host=host,
             port=porta,
             database=banco,
-            query={"sslmode": "disable"}
+            query={"sslmode": "require"}
         )
         
         try:
