@@ -1,0 +1,442 @@
+TNORTE TRANSPORTE EIRELI                                                                                                                                             PAG:   1
+ssw0088                                                                    084 - PERFORMANCE DE ENTREGAS                                                       01/01/25 01:49
+                                                                                   MES: 12/24
+
+                                                                                                     ENTREGUES                                           NAO ENTREGUES
+---------------+-------------------------+------+------+------+-------+   --------+-----+-------+-----+--------+-----+-----------+-----+-----+   -------+-----+--------+-----
+UNIDADE DESTINO CIDADE/UF DESTINO        |PRAZO |DIAS  |QUANT |QCTRCS |   ENTREGUE      |NOPRAZO      |ATRASCLI      |ATRASTRANSP      |PERF     NOPRAZO      |ATRASADO
+                                         |DIA UT|SEMANA|CLIEN |EXPEDI |   QCTRC        %|QCTRC       %|QCTRC        %|QCTRC           %|    %    QCTRC       %|QCTRC       %
+---------------+-------------------------+------+------+------+-------+   --------+-----+-------+-----+--------+-----+-----------+-----+-----+   -------+-----+--------+-----
+ABT ABAETETUBA  ABAETETUBA/PA                  1 .TQQSS     56     398         375  94,2     351  93,6        9   2,4          15   4,0  95,9         13   3,3       10   2,5
+                BARCARENA/PA                   1 .TQQS.      1       1           1 100,0       1 100,0            0,0               0,0 100,0              0,0            0,0
+                TOTAL                                       57     399         376  94,2     352  93,6        9   2,4          15   4,0  95,9         13   3,3       10   2,5
+
+AFC B/M COBRA S AFUA/PA                        3 ...Q..      1       1               0,0           0,0            0,0               0,0   0,0          1 100,0            0,0
+                CHAVES/PA                      5 STQQSS      1       1               0,0           0,0            0,0               0,0   0,0          1 100,0            0,0
+                TOTAL                                        2       2               0,0           0,0            0,0               0,0   0,0          2 100,0            0,0
+
+ARC ARCA DA ALI ANAJAS/PA                      4 ..Q.S.      6       8           2  25,0           0,0            0,0           2 100,0   0,0          4  50,0        2  25,0
+                TOTAL                                        6       8           2  25,0           0,0            0,0           2 100,0   0,0          4  50,0        2  25,0
+
+BAR BARCARENA   BARCARENA/PA                   1 .TQQS.     50     387         362  93,5     335  92,5       10   2,8          17   4,7  95,2         11   2,8       14   3,6
+                TOTAL                                       50     387         362  93,5     335  92,5       10   2,8          17   4,7  95,2         11   2,8       14   3,6
+
+BLT PESERVERANC CURRALINHO/PA                  3 .T..S.      4       7               0,0           0,0            0,0               0,0   0,0          1  14,3        6  85,7
+                OEIRAS DO PARA/PA              3 .T..S.     12      20           2  10,0       1  50,0            0,0           1  50,0  50,0          3  15,0       15  75,0
+                TOTAL                                       16      27           2   7,4       1  50,0            0,0           1  50,0  50,0          4  14,8       21  77,8
+
+BOJ TRANSPORTE  BREVES/PA                      3 STQQS.     15      63          50  79,4      44  88,0            0,0           6  12,0  88,0          5   7,9        8  12,7
+                MELGACO/PA                     3 .T..S.      3       7           6  85,7       6 100,0            0,0               0,0 100,0          1  14,3            0,0
+                PORTEL/PA                      3 .T..S.      9      41          37  90,2      34  91,9            0,0           3   8,1  91,9          4   9,8            0,0
+                TOTAL                                       27     111          93  83,8      84  90,3            0,0           9   9,7  90,3         10   9,0        8   7,2
+
+BTR EDSON GOMES BREU BRANCO/PA                 1 STQQSS      9      24          19  79,2       9  47,4            0,0          10  52,6  47,4          4  16,7        1   4,2
+                TUCURUI/PA                     1 STQQSS     16      50          38  76,0      22  57,9            0,0          16  42,1  57,9          6  12,0        6  12,0
+                TOTAL                                       25      74          57  77,0      31  54,4            0,0          26  45,6  54,4         10  13,5        7   9,5
+
+CAS CASTANHAL   BENEVIDES/PA                   1 STQQS.      1       1           1 100,0           0,0            0,0           1 100,0   0,0              0,0            0,0
+                CASTANHAL/PA                   1 STQQSS     49     312         282  90,4     262  92,9       11   3,9           9   3,2  96,7         12   3,8       18   5,8
+                COLARES/PA                     1 .T.Q.S      5      10           8  80,0       8 100,0            0,0               0,0 100,0              0,0        2  20,0
+                CURUCA/PA                      1 .T.Q.S      5      29          23  79,3      23 100,0            0,0               0,0 100,0          3  10,3        3  10,3
+                IGARAPE-ACU/PA                 1 S.Q.S.     13      92          92 100,0      83  90,2        5   5,4           4   4,3  95,4              0,0            0,0
+                INHANGAPI/PA                   1 .TQQSS      1       2           2 100,0       2 100,0            0,0               0,0 100,0              0,0            0,0
+                MAGALHAES BARATA/PA            1 S.Q.S.      1       1           1 100,0       1 100,0            0,0               0,0 100,0              0,0            0,0
+                MARACANA/PA                    1 S.Q.S.      4       6           5  83,3       5 100,0            0,0               0,0 100,0          1  16,7            0,0
+                MARAPANIM/PA                   1 .T.Q.S      3      23          22  95,7      21  95,5        1   4,5               0,0 100,0              0,0        1   4,3
+                SANTA IZABEL DO PARA/PA        1 STQQS.      2       2           2 100,0       2 100,0            0,0               0,0 100,0              0,0            0,0
+                SANTA MARIA DO PARA/PA         1 .TQQSS      4       6           3  50,0       2  66,7        1  33,3               0,0 100,0              0,0        3  50,0
+                SANTO ANTONIO DO TAUA/PA       1 .T.Q.S      6      38          32  84,2      28  87,5        4  12,5               0,0 100,0          2   5,3        4  10,5
+                SAO CAETANO DE ODIVEL/PA       1 .T.Q.S      6      22          19  86,4      18  94,7        1   5,3               0,0 100,0              0,0        3  13,6
+                SAO DOMINGOS DO CAPIM/PA       2 STQQS.      8      19           8  42,1       6  75,0        2  25,0               0,0 100,0          2  10,5        9  47,4
+                SAO FRANCISCO DO PARA/PA       1 S.Q.S.      5      22          21  95,5      21 100,0            0,0               0,0 100,0              0,0        1   4,5
+                SAO JOAO DA PONTA/PA           1 STQQS.      1       1           1 100,0       1 100,0            0,0               0,0 100,0              0,0            0,0
+                TERRA ALTA/PA                  1 .T.Q.S      3       8           8 100,0       6  75,0            0,0           2  25,0  75,0              0,0            0,0
+                VIGIA/PA                       1 .T.Q.S      8      32          27  84,4      21  77,8        5  18,5           1   3,7  95,5          1   3,1        4  12,5
+                TOTAL                                      125     626         557  89,0     510  91,6       30   5,4          17   3,1  96,8         21   3,4       48   7,7
+
+CEN T NORTE  TR ANANINDEUA/PA                  1 STQQS.     61     740         657  88,8     604  91,9       32   4,9          21   3,2  96,6         10   1,4       73   9,9
+                BELEM/PA                       1 STQQS.     74   1.659       1.532  92,3   1.468  95,8       44   2,9          20   1,3  98,7         13   0,8      114   6,9
+                BENEVIDES/PA                   1 STQQS.     24     137         120  87,6     104  86,7        2   1,7          14  11,7  88,1          3   2,2       14  10,2
+                MARITUBA/PA                    1 STQQS.     14     114         108  94,7     105  97,2        2   1,9           1   0,9  99,1          1   0,9        5   4,4
+                SANTA BARBARA DO PARA/PA       1 STQQS.      9      23          21  91,3      13  61,9        2   9,5           6  28,6  68,4              0,0        2   8,7
+                SANTA IZABEL DO PARA/PA        1 STQQS.     23      93          85  91,4      82  96,5        1   1,2           2   2,4  97,6              0,0        8   8,6
+
+TNORTE TRANSPORTE EIRELI                                                                                                                                             PAG:   2
+ssw0088                                                                    084 - PERFORMANCE DE ENTREGAS                                                       01/01/25 01:49
+                                                                                   MES: 12/24
+
+                                                                                                     ENTREGUES                                           NAO ENTREGUES
+---------------+-------------------------+------+------+------+-------+   --------+-----+-------+-----+--------+-----+-----------+-----+-----+   -------+-----+--------+-----
+UNIDADE DESTINO CIDADE/UF DESTINO        |PRAZO |DIAS  |QUANT |QCTRCS |   ENTREGUE      |NOPRAZO      |ATRASCLI      |ATRASTRANSP      |PERF     NOPRAZO      |ATRASADO
+                                         |DIA UT|SEMANA|CLIEN |EXPEDI |   QCTRC        %|QCTRC       %|QCTRC        %|QCTRC           %|    %    QCTRC       %|QCTRC       %
+---------------+-------------------------+------+------+------+-------+   --------+-----+-------+-----+--------+-----+-----------+-----+-----+   -------+-----+--------+-----
+                TOTAL                                      205   2.766       2.523  91,2   2.376  94,2       83   3,3          64   2,5  97,4         27   1,0      216   7,8
+
+CJO CARAPAJO    BAIAO/PA                       1 STQQS.     45     205         194  94,6     173  89,2        5   2,6          16   8,2  91,5              0,0       11   5,4
+                CAMETA/PA                      1 STQQS.    141     633         595  94,0     518  87,1       39   6,6          38   6,4  93,2              0,0       38   6,0
+                IGARAPE-MIRI/PA                1 .TQQSS      1       1           1 100,0           0,0            0,0           1 100,0   0,0              0,0            0,0
+                MOCAJUBA/PA                    1 .TQQSS     52     156         148  94,9     133  89,9        6   4,1           9   6,1  93,7              0,0        8   5,1
+                MOJU/PA                        1 .TQQSS      1       1           1 100,0           0,0            0,0           1 100,0   0,0              0,0            0,0
+                TOTAL                                      240     996         939  94,3     824  87,8       50   5,3          65   6,9  92,7              0,0       57   5,7
+
+EDN EDNALDO DOS AUGUSTO CORREA/PA              1 STQQS.      9      32          32 100,0      21  65,6            0,0          11  34,4  65,6              0,0            0,0
+                BONITO/PA                      1 STQQS.      3       8           8 100,0       8 100,0            0,0               0,0 100,0              0,0            0,0
+                BRAGANCA/PA                    1 STQQS.     24     158         156  98,7     149  95,5            0,0           7   4,5  95,5          1   0,6        1   0,6
+                CACHOEIRA DO PIRIA/PA          1 STQQS.     11      41          41 100,0      38  92,7            0,0           3   7,3  92,7              0,0            0,0
+                CAPANEMA/PA                    1 STQQS.     26     180         178  98,9     161  90,4        1   0,6          16   9,0  91,0          1   0,6        1   0,6
+                CAPITAO POCO/PA                1 .TQQSS     25     131         123  93,9     113  91,9        2   1,6           8   6,5  93,4          1   0,8        7   5,3
+                GARRAFAO DO NORTE/PA           1 STQQS.      7      22          21  95,5       3  14,3            0,0          18  85,7  14,3              0,0        1   4,5
+                IGARAPE-ACU/PA                 1 S.Q.S.      1       1           1 100,0       1 100,0            0,0               0,0 100,0              0,0            0,0
+                IRITUIA/PA                     1 STQQS.      4      15          14  93,3      13  92,9            0,0           1   7,1  92,9              0,0        1   6,7
+                NOVA ESPERANCA DO PIR/PA       2 STQQS.      9      35          33  94,3      16  48,5            0,0          17  51,5  48,5          1   2,9        1   2,9
+                NOVA TIMBOTEUA/PA              1 STQQS.      8      17          17 100,0      16  94,1            0,0           1   5,9  94,1              0,0            0,0
+                OUREM/PA                       1 STQQS.      9      38          35  92,1      33  94,3            0,0           2   5,7  94,3          1   2,6        2   5,3
+                PEIXE-BOI/PA                   1 STQQS.      2       5           5 100,0       1  20,0            0,0           4  80,0  20,0              0,0            0,0
+                PRIMAVERA/PA                   1 .TQQS.      8      20          19  95,0      19 100,0            0,0               0,0 100,0          1   5,0            0,0
+                QUATIPURU/PA                   1 .TQQS.      4      11           9  81,8       8  88,9            0,0           1  11,1  88,9              0,0        2  18,2
+                SALINOPOLIS/PA                 1 STQQS.     15      74          70  94,6      62  88,6            0,0           8  11,4  88,6          4   5,4            0,0
+                SANTA LUZIA DO PARA/PA         2 STQQS.     10      22          21  95,5      20  95,2            0,0           1   4,8  95,2          1   4,5            0,0
+                SANTA MARIA DO PARA/PA         1 .TQQSS     10      53          49  92,5      45  91,8        1   2,0           3   6,1  93,8          3   5,7        1   1,9
+                SANTAREM NOVO/PA               1 STQQS.      1       2           2 100,0       2 100,0            0,0               0,0 100,0              0,0            0,0
+                SAO JOAO DE PIRABAS/PA         1 STQQS.      8      34          34 100,0      33  97,1            0,0           1   2,9  97,1              0,0            0,0
+                SAO MIGUEL DO GUAMA/PA         1 .TQQSS      6      99          93  93,9      86  92,5        1   1,1           6   6,5  93,5              0,0        6   6,1
+                TRACUATEUA/PA                  1 STQQS.      5       7           7 100,0       6  85,7            0,0           1  14,3  85,7              0,0            0,0
+                VISEU/PA                       3 STQQS.     12      42          36  85,7      23  63,9            0,0          13  36,1  63,9          5  11,9        1   2,4
+                TOTAL                                      217   1.047       1.004  95,9     877  87,4        5   0,5         122  12,2  87,8         19   1,8       24   2,3
+
+GLM MELO - GLOB SAO SEBASTIAO DA BOA /PA       3 .T..S.      7      18          13  72,2      11  84,6            0,0           2  15,4  84,6          2  11,1        3  16,7
+                TOTAL                                        7      18          13  72,2      11  84,6            0,0           2  15,4  84,6          2  11,1        3  16,7
+
+IGM DARCY JESSE IGARAPE-MIRI/PA                1 .TQQSS     25     182         174  95,6     149  85,6        2   1,1          23  13,2  86,6              0,0        8   4,4
+                TOTAL                                       25     182         174  95,6     149  85,6        2   1,1          23  13,2  86,6              0,0        8   4,4
+
+JGL J V DE OLIV BREU BRANCO/PA                 1 STQQSS      8      26          26 100,0      10  38,5        1   3,8          15  57,7  40,0              0,0            0,0
+                GOIANESIA DO PARA/PA           1 STQQSS     11      27          25  92,6      17  68,0            0,0           8  32,0  68,0              0,0        2   7,4
+                JACUNDA/PA                     1 .TQQSS     14      52          42  80,8      25  59,5        1   2,4          16  38,1  61,0          3   5,8        7  13,5
+                TUCURUI/PA                     1 STQQSS     12      42          42 100,0      24  57,1            0,0          18  42,9  57,1              0,0            0,0
+                TOTAL                                       45     147         135  91,8      76  56,3        2   1,5          57  42,2  57,1          3   2,0        9   6,1
+
+JSN BARCO JOSE  CACHOEIRA DO ARARI/PA          3 ....S.      6       9               0,0           0,0            0,0               0,0   0,0          4  44,4        5  55,6
+                TOTAL                                        6       9               0,0           0,0            0,0               0,0   0,0          4  44,4        5  55,6
+
+MAB MARABA      AGUA AZUL DO NORTE/PA          1 .TQQSS      7      23          14  60,9       6  42,9            0,0           8  57,1  42,9          4  17,4        5  21,7
+                BANNACH/PA                     2 STQQS.      2       2           2 100,0       2 100,0            0,0               0,0 100,0              0,0            0,0
+                CANAA DOS CARAJAS/PA           1 STQQS.     24     116          98  84,5      58  59,2        8   8,2          32  32,7  64,4          5   4,3       13  11,2
+                CONCEICAO DO ARAGUAIA/PA       2 STQQS.     11      56          50  89,3      11  22,0        1   2,0          38  76,0  22,4          4   7,1        2   3,6
+
+TNORTE TRANSPORTE EIRELI                                                                                                                                             PAG:   3
+ssw0088                                                                    084 - PERFORMANCE DE ENTREGAS                                                       01/01/25 01:49
+                                                                                   MES: 12/24
+
+                                                                                                     ENTREGUES                                           NAO ENTREGUES
+---------------+-------------------------+------+------+------+-------+   --------+-----+-------+-----+--------+-----+-----------+-----+-----+   -------+-----+--------+-----
+UNIDADE DESTINO CIDADE/UF DESTINO        |PRAZO |DIAS  |QUANT |QCTRCS |   ENTREGUE      |NOPRAZO      |ATRASCLI      |ATRASTRANSP      |PERF     NOPRAZO      |ATRASADO
+                                         |DIA UT|SEMANA|CLIEN |EXPEDI |   QCTRC        %|QCTRC       %|QCTRC        %|QCTRC           %|    %    QCTRC       %|QCTRC       %
+---------------+-------------------------+------+------+------+-------+   --------+-----+-------+-----+--------+-----+-----------+-----+-----+   -------+-----+--------+-----
+                CUMARU DO NORTE/PA             3 STQQS.      5      11           5  45,5       1  20,0            0,0           4  80,0  20,0              0,0        6  54,5
+                CURIONOPOLIS/PA                1 STQQS.      6      13           7  53,8       6  85,7            0,0           1  14,3  85,7          3  23,1        3  23,1
+                ELDORADO DO CARAJAS/PA         1 STQQS.     10      14          12  85,7       9  75,0        1   8,3           2  16,7  81,8          1   7,1        1   7,1
+                FLORESTA DO ARAGUAIA/PA        2 STQQS.      7      25          24  96,0      23  95,8            0,0           1   4,2  95,8              0,0        1   4,0
+                ITUPIRANGA/PA                  2 STQQS.      8      31          25  80,6      24  96,0            0,0           1   4,0  96,0          3   9,7        3   9,7
+                MARABA/PA                      1 STQQS.     60     340         310  91,2     281  90,6        6   1,9          23   7,4  92,4          8   2,4       22   6,5
+                OURILANDIA DO NORTE/PA         2 STQQS.     13      72          62  86,1      56  90,3        1   1,6           5   8,1  91,8          9  12,5        1   1,4
+                PARAUAPEBAS/PA                 1 STQQSS     37     351         274  78,1     188  68,6       11   4,0          75  27,4  71,5         21   6,0       56  16,0
+                PAU D ARCO/PA                  1 STQQS.      4       8           7  87,5       5  71,4            0,0           2  28,6  71,4          1  12,5            0,0
+                PICARRA/PA                     1 STQQS.      3      13           5  38,5       3  60,0            0,0           2  40,0  60,0              0,0        8  61,5
+                REDENCAO/PA                    3 STQQS.     20     204         158  77,5      72  45,6            0,0          86  54,4  45,6         38  18,6        8   3,9
+                RIO MARIA/PA                   2 STQQS.      7      17          15  88,2      14  93,3            0,0           1   6,7  93,3          1   5,9        1   5,9
+                SANTA MARIA DAS BARRE/PA       2 STQQS.      4      22          20  90,9      20 100,0            0,0               0,0 100,0          1   4,5        1   4,5
+                SANTANA DO ARAGUAIA/PA         2 STQQS.     12      75          70  93,3      61  87,1            0,0           9  12,9  87,1          2   2,7        3   4,0
+                SAO FELIX DO XINGU/PA          2 STQQS.     13     100          74  74,0      63  85,1        4   5,4           7   9,5  90,0          6   6,0       20  20,0
+                SAO GERALDO DO ARAGUA/PA       2 STQQS.      7      38          32  84,2      29  90,6            0,0           3   9,4  90,6          3   7,9        3   7,9
+                SAPUCAIA/PA                    2 STQQS.      3       4           4 100,0       4 100,0            0,0               0,0 100,0              0,0            0,0
+                TUCUMA/PA                      2 STQQS.     17     112         100  89,3      89  89,0            0,0          11  11,0  89,0          4   3,6        8   7,1
+                XINGUARA/PA                    2 STQQS.     15     107          98  91,6      93  94,9        2   2,0           3   3,1  96,9          7   6,5        2   1,9
+                TOTAL                                      295   1.754       1.466  83,6   1.118  76,3       34   2,3         314  21,4  78,1        121   6,9      167   9,5
+
+MEL MADRI EXPRE ABEL FIGUEIREDO/PA             1 .TQQSS      2       3           3 100,0       3 100,0            0,0               0,0 100,0              0,0            0,0
+                ANANINDEUA/PA                  1 STQQS.      2      28          25  89,3      20  80,0            0,0           5  20,0  80,0          3  10,7            0,0
+                BOM JESUS DO TOCANTIN/PA       2 STQQS.      3       7           7 100,0       7 100,0            0,0               0,0 100,0              0,0            0,0
+                NOVA IPIXUNA/PA                1 STQQS.      7      17          14  82,4       7  50,0            0,0           7  50,0  50,0          3  17,6            0,0
+                RONDON DO PARA/PA              2 STQQS.      4      21          21 100,0      19  90,5            0,0           2   9,5  90,5              0,0            0,0
+                TOTAL                                       18      76          70  92,1      56  80,0            0,0          14  20,0  80,0          6   7,9            0,0
+
+MEM M A BARBOSA ARAGUAINA/TO                   2 STQQS.      2       6           4  66,7       4 100,0            0,0               0,0 100,0          1  16,7        1  16,7
+                BREJO GRANDE DO ARAGU/PA       1 .T...S      2       7           7 100,0       7 100,0            0,0               0,0 100,0              0,0            0,0
+                GURUPI/TO                      2 STQQS.      1       2               0,0           0,0            0,0               0,0   0,0          1  50,0        1  50,0
+                MIRANORTE/TO                   4 STQQS.      1       1           1 100,0           0,0            0,0           1 100,0   0,0              0,0            0,0
+                PALESTINA DO PARA/PA           1 STQQS.      4       8           8 100,0       5  62,5            0,0           3  37,5  62,5              0,0            0,0
+                PALMAS/TO                      1 STQQS.      1       6           6 100,0           0,0        2  33,3           4  66,7   0,0              0,0            0,0
+                SAO DOMINGOS DO ARAGU/PA       1 STQQS.      7      47          44  93,6      28  63,6            0,0          16  36,4  63,6              0,0        3   6,4
+                SAO JOAO DO ARAGUAIA/PA        2 STQQS.      2       3           3 100,0       1  33,3            0,0           2  66,7  33,3              0,0            0,0
+                TOTAL                                       20      80          73  91,3      45  61,6        2   2,7          26  35,6  63,4          2   2,5        5   6,3
+
+MOJ ANTONIO NEL MOJU/PA                        1 .TQQSS     24     113         103  91,2      50  48,5        1   1,0          52  50,5  49,0              0,0       10   8,8
+                TOTAL                                       24     113         103  91,2      50  48,5        1   1,0          52  50,5  49,0              0,0       10   8,8
+
+NHA NHAMUNDA    BAGRE/PA                       3 .T..S.      3       6           5  83,3       4  80,0            0,0           1  20,0  80,0              0,0        1  16,7
+                TOTAL                                        3       6           5  83,3       4  80,0            0,0           1  20,0  80,0              0,0        1  16,7
+
+NIS NAVEGACAO I AMAPA/AP                      15 STQQS.      1       1           1 100,0       1 100,0            0,0               0,0 100,0              0,0            0,0
+                CALCOENE/AP                   15 STQQS.      2       3           1  33,3       1 100,0            0,0               0,0 100,0          2  66,7            0,0
+                CUTIAS/AP                     15 STQQS.      1       1               0,0           0,0            0,0               0,0   0,0          1 100,0            0,0
+                ITAUBAL/AP                    15 STQQS.      1       2           1  50,0       1 100,0            0,0               0,0 100,0          1  50,0            0,0
+                LARANJAL DO JARI/AP           15 STQQS.      2       3           2  66,7       2 100,0            0,0               0,0 100,0          1  33,3            0,0
+                MACAPA/AP                      5 STQQS.     14      38          10  26,3       8  80,0            0,0           2  20,0  80,0         15  39,5       13  34,2
+                MAZAGAO/AP                    15 STQQS.      1       1           1 100,0       1 100,0            0,0               0,0 100,0              0,0            0,0
+                OIAPOQUE/AP                   15 STQQS.      4       7           5  71,4       5 100,0            0,0               0,0 100,0          2  28,6            0,0
+                PORTO GRANDE/AP               15 STQQS.      3       3           2  66,7       2 100,0            0,0               0,0 100,0          1  33,3            0,0
+
+TNORTE TRANSPORTE EIRELI                                                                                                                                             PAG:   4
+ssw0088                                                                    084 - PERFORMANCE DE ENTREGAS                                                       01/01/25 01:49
+                                                                                   MES: 12/24
+
+                                                                                                     ENTREGUES                                           NAO ENTREGUES
+---------------+-------------------------+------+------+------+-------+   --------+-----+-------+-----+--------+-----+-----------+-----+-----+   -------+-----+--------+-----
+UNIDADE DESTINO CIDADE/UF DESTINO        |PRAZO |DIAS  |QUANT |QCTRCS |   ENTREGUE      |NOPRAZO      |ATRASCLI      |ATRASTRANSP      |PERF     NOPRAZO      |ATRASADO
+                                         |DIA UT|SEMANA|CLIEN |EXPEDI |   QCTRC        %|QCTRC       %|QCTRC        %|QCTRC           %|    %    QCTRC       %|QCTRC       %
+---------------+-------------------------+------+------+------+-------+   --------+-----+-------+-----+--------+-----+-----------+-----+-----+   -------+-----+--------+-----
+                SANTANA/AP                     5 STQQS.      6      13           4  30,8       3  75,0            0,0           1  25,0  75,0          3  23,1        6  46,2
+                TARTARUGALZINHO/AP            15 STQQS.      1       1               0,0           0,0            0,0               0,0   0,0          1 100,0            0,0
+                TOTAL                                       36      73          27  37,0      24  88,9            0,0           3  11,1  88,9         27  37,0       19  26,0
+
+NPL NORTE PARA  ABEL FIGUEIREDO/PA             1 .TQQSS      4       6           3  50,0       2  66,7            0,0           1  33,3  66,7          1  16,7        2  33,3
+                ALENQUER/PA                    7 ..Q..S      5      12           7  58,3       7 100,0            0,0               0,0 100,0          4  33,3        1   8,3
+                ALTAMIRA/PA                    4 ..Q..S     18      65          17  26,2      14  82,4            0,0           3  17,6  82,3         24  36,9       24  36,9
+                ANAPU/PA                       4 ..Q..S      7       8           4  50,0       4 100,0            0,0               0,0 100,0          3  37,5        1  12,5
+                AURORA DO PARA/PA              1 .TQQSS      6      17          16  94,1      13  81,3            0,0           3  18,8  81,3              0,0        1   5,9
+                BELTERRA/PA                   10 ..Q..S      2       3           2  66,7       2 100,0            0,0               0,0 100,0          1  33,3            0,0
+                BOM JESUS DO TOCANTIN/PA       2 STQQS.      7      13          11  84,6      11 100,0            0,0               0,0 100,0          1   7,7        1   7,7
+                BRASIL NOVO/PA                 4 ..Q..S      7      21           5  23,8       4  80,0            0,0           1  20,0  80,0          6  28,6       10  47,6
+                CURUA/PA                      10 ..Q..S      2       2           1  50,0       1 100,0            0,0               0,0 100,0          1  50,0            0,0
+                DOM ELISEU/PA                  2 .TQQSS     12      65          54  83,1      44  81,5            0,0          10  18,5  81,5          4   6,2        7  10,8
+                IPIXUNA DO PARA/PA             1 .TQQSS      7      37          37 100,0      27  73,0            0,0          10  27,0  73,0              0,0            0,0
+                ITAITUBA/PA                    7 ..Q..S     15      24           8  33,3       8 100,0            0,0               0,0 100,0         13  54,2        3  12,5
+                JACAREACANGA/PA               11 ..Q..S      1       1           1 100,0       1 100,0            0,0               0,0 100,0              0,0            0,0
+                JURUTI/PA                      7 ..Q..S      3       3           1  33,3       1 100,0            0,0               0,0 100,0          2  66,7            0,0
+                MAE DO RIO/PA                  1 .TQQSS      8      41          40  97,6      34  85,0            0,0           6  15,0  85,0              0,0        1   2,4
+                MEDICILANDIA/PA                4 ..Q..S      9      24           6  25,0       6 100,0            0,0               0,0 100,0          6  25,0       12  50,0
+                MOJUI DOS CAMPOS/PA            8 ..Q..S      4       4           3  75,0       3 100,0            0,0               0,0 100,0          1  25,0            0,0
+                MONTE ALEGRE/PA                7 ..Q..S      8      21           6  28,6       6 100,0            0,0               0,0 100,0         13  61,9        2   9,5
+                NOVO PROGRESSO/PA             11 ..Q..S      6      16          12  75,0      12 100,0            0,0               0,0 100,0          4  25,0            0,0
+                NOVO REPARTIMENTO/PA           4 STQQS.      8      14          10  71,4       8  80,0            0,0           2  20,0  80,0          2  14,3        2  14,3
+                OBIDOS/PA                      7 ..QQ.S      3       4           3  75,0       3 100,0            0,0               0,0 100,0          1  25,0            0,0
+                ORIXIMINA/PA                   7 ..Q..S      4       5           4  80,0       4 100,0            0,0               0,0 100,0          1  20,0            0,0
+                PACAJA/PA                      4 ..Q..S      6      10           6  60,0       6 100,0            0,0               0,0 100,0          4  40,0            0,0
+                PARAGOMINAS/PA                 1 .TQQSS     24     168         155  92,3      92  59,4            0,0          63  40,6  59,4          1   0,6       12   7,1
+                PLACAS/PA                      5 ..Q..S      1       1           1 100,0       1 100,0            0,0               0,0 100,0              0,0            0,0
+                PRAINHA/PA                    11 ..Q..S      3       3           1  33,3       1 100,0            0,0               0,0 100,0          2  66,7            0,0
+                RONDON DO PARA/PA              2 STQQS.      9      33          31  93,9      29  93,5            0,0           2   6,5  93,5          2   6,1            0,0
+                RUROPOLIS/PA                   5 ..Q..S      3       4           2  50,0       2 100,0            0,0               0,0 100,0          2  50,0            0,0
+                SANTAREM/PA                    4 ..Q..S     27      77          39  50,6      37  94,9            0,0           2   5,1  94,9         36  46,8        2   2,6
+                TERRA SANTA/PA                11 ..Q..S      1       1           1 100,0       1 100,0            0,0               0,0 100,0              0,0            0,0
+                TRAIRAO/PA                    11 ..Q..S      3       3           1  33,3       1 100,0            0,0               0,0 100,0          2  66,7            0,0
+                ULIANOPOLIS/PA                 2 .TQQSS      6      29          28  96,6      22  78,6            0,0           6  21,4  78,6              0,0        1   3,4
+                URUARA/PA                      4 ..Q..S     10      22           9  40,9       9 100,0            0,0               0,0 100,0          6  27,3        7  31,8
+                TOTAL                                      239     757         525  69,4     416  79,2            0,0         109  20,8  79,2        143  18,9       89  11,8
+
+NST NORTE PARA  ALTAMIRA/PA                    4 ..Q..S      3       7           5  71,4       5 100,0            0,0               0,0 100,0          1  14,3        1  14,3
+                ANAPU/PA                       4 ..Q..S      1       1           1 100,0           0,0            0,0           1 100,0   0,0              0,0            0,0
+                BRASIL NOVO/PA                 4 ..Q..S      1       1               0,0           0,0            0,0               0,0   0,0          1 100,0            0,0
+                MEDICILANDIA/PA                4 ..Q..S      2       3           3 100,0       3 100,0            0,0               0,0 100,0              0,0            0,0
+                NOVO PROGRESSO/PA             11 ..Q..S      1       1           1 100,0       1 100,0            0,0               0,0 100,0              0,0            0,0
+                PLACAS/PA                      5 ..Q..S      1       1           1 100,0       1 100,0            0,0               0,0 100,0              0,0            0,0
+                SANTAREM/PA                    4 ..Q..S      4       5           5 100,0       4  80,0            0,0           1  20,0  80,0              0,0            0,0
+                TOTAL                                       13      19          16  84,2      14  87,5            0,0           2  12,5  87,5          2  10,5        1   5,3
+
+OST TRANSPORTAD ANAPU/PA                       4 ..Q..S      1       1               0,0           0,0            0,0               0,0   0,0          1 100,0            0,0
+                NOVO REPARTIMENTO/PA           4 STQQS.      1       3           3 100,0           0,0            0,0           3 100,0   0,0              0,0            0,0
+                OBIDOS/PA                      7 ..QQ.S      1       1               0,0           0,0            0,0               0,0   0,0          1 100,0            0,0
+                ORIXIMINA/PA                   7 ..Q..S      1       1           1 100,0       1 100,0            0,0               0,0 100,0              0,0            0,0
+                TOTAL                                        4       6           4  66,7       1  25,0            0,0           3  75,0  25,0          2  33,3            0,0
+
+
+TNORTE TRANSPORTE EIRELI                                                                                                                                             PAG:   5
+ssw0088                                                                    084 - PERFORMANCE DE ENTREGAS                                                       01/01/25 01:49
+                                                                                   MES: 12/24
+
+                                                                                                     ENTREGUES                                           NAO ENTREGUES
+---------------+-------------------------+------+------+------+-------+   --------+-----+-------+-----+--------+-----+-----------+-----+-----+   -------+-----+--------+-----
+UNIDADE DESTINO CIDADE/UF DESTINO        |PRAZO |DIAS  |QUANT |QCTRCS |   ENTREGUE      |NOPRAZO      |ATRASCLI      |ATRASTRANSP      |PERF     NOPRAZO      |ATRASADO
+                                         |DIA UT|SEMANA|CLIEN |EXPEDI |   QCTRC        %|QCTRC       %|QCTRC        %|QCTRC           %|    %    QCTRC       %|QCTRC       %
+---------------+-------------------------+------+------+------+-------+   --------+-----+-------+-----+--------+-----+-----------+-----+-----+   -------+-----+--------+-----
+PLF BM PAULO AF SALVATERRA/PA                  3 .T..S.      8      13           8  61,5       5  62,5            0,0           3  37,5  62,5              0,0        5  38,5
+                SOURE/PA                       3 .T..S.      8      22          11  50,0       9  81,8            0,0           2  18,2  81,8          6  27,3        5  22,7
+                TOTAL                                       16      35          19  54,3      14  73,7            0,0           5  26,3  73,7          6  17,1       10  28,6
+
+PNT PONTO NORTE MACAPA/AP                      5 STQQS.      2       9               0,0           0,0            0,0               0,0   0,0              0,0        9 100,0
+                SANTANA/AP                     5 STQQS.      1       4               0,0           0,0            0,0               0,0   0,0              0,0        4 100,0
+                TOTAL                                        3      13               0,0           0,0            0,0               0,0   0,0              0,0       13 100,0
+
+RMA RIO MADEIRA AFUA/PA                        3 ...Q..      4       6               0,0           0,0            0,0               0,0   0,0              0,0        6 100,0
+                CHAVES/PA                      5 STQQSS      1       1               0,0           0,0            0,0               0,0   0,0          1 100,0            0,0
+                TOTAL                                        5       7               0,0           0,0            0,0               0,0   0,0          1  14,3        6  85,7
+
+RSD R. S. DOS S TAILANDIA/PA                   1 STQQS.     31     144         124  86,1      71  57,3        4   3,2          49  39,5  59,2              0,0       20  13,9
+                TOTAL                                       31     144         124  86,1      71  57,3        4   3,2          49  39,5  59,2              0,0       20  13,9
+
+SAT I S DE SANT ACARA/PA                       1 .TQQSS     13      30          26  86,7      22  84,6            0,0           4  15,4  84,6          1   3,3        3  10,0
+                BUJARU/PA                      2 STQQS.      3       7           4  57,1       4 100,0            0,0               0,0 100,0          3  42,9            0,0
+                CONCORDIA DO PARA/PA           1 STQQS.      6      21          20  95,2      18  90,0            0,0           2  10,0  90,0              0,0        1   4,8
+                TOME-ACU/PA                    1 STQQS.     18      61          51  83,6      44  86,3            0,0           7  13,7  86,3          1   1,6        9  14,8
+                TOTAL                                       40     119         101  84,9      88  87,1            0,0          13  12,9  87,1          5   4,2       13  10,9
+
+SDG ARANAI - SA ALMEIRIM/PA                    4 .....S      9      16           1   6,3       1 100,0            0,0               0,0 100,0          6  37,5        9  56,3
+                GURUPA/PA                      4 ...Q..      7      19               0,0           0,0            0,0               0,0   0,0          7  36,8       12  63,2
+                PORTO DE MOZ/PA                3 ...Q..      3      17          12  70,6      10  83,3            0,0           2  16,7  83,3          5  29,4            0,0
+                SANTA CRUZ DO ARARI/PA         3 .T....      2       2               0,0           0,0            0,0               0,0   0,0          1  50,0        1  50,0
+                SENADOR JOSE PORFIRIO/PA       4 ...Q..      5       8               0,0           0,0            0,0               0,0   0,0          6  75,0        2  25,0
+                TOTAL                                       26      62          13  21,0      11  84,6            0,0           2  15,4  84,6         25  40,3       24  38,7
+
+SMT SALMISTA    MUANA/PA                       3 S...S.      7      33          21  63,6       9  42,9        1   4,8          11  52,4  45,0          6  18,2        6  18,2
+                TOTAL                                        7      33          21  63,6       9  42,9        1   4,8          11  52,4  45,0          6  18,2        6  18,2
+
+SPN SP NUNES CO BARCELOS/AM                   20 STQQS.      1       1               0,0           0,0            0,0               0,0   0,0          1 100,0            0,0
+                BOA VISTA/RR                  15 STQQS.     11      50           7  14,0       7 100,0            0,0               0,0 100,0         42  84,0        1   2,0
+                BOCA DO ACRE/AM               20 STQQS.      1       1               0,0           0,0            0,0               0,0   0,0          1 100,0            0,0
+                COARI/AM                      20 STQQS.      1       1               0,0           0,0            0,0               0,0   0,0          1 100,0            0,0
+                HUMAITA/AM                    20 STQQS.      1       1               0,0           0,0            0,0               0,0   0,0          1 100,0            0,0
+                MANAUS/AM                     10 STQQS.     31     161          53  32,9      41  77,4        7  13,2           5   9,4  89,1        102  63,4        6   3,7
+                MANICORE/AM                   20 STQQS.      1       1               0,0           0,0            0,0               0,0   0,0          1 100,0            0,0
+                PARINTINS/AM                  20 STQQS.      2       2               0,0           0,0            0,0               0,0   0,0          2 100,0            0,0
+                RORAINOPOLIS/RR               25 STQQS.      1       1               0,0           0,0            0,0               0,0   0,0          1 100,0            0,0
+                TOTAL                                       50     219          60  27,4      48  80,0        7  11,7           5   8,3  90,6        152  69,4        7   3,2
+
+TGO TNORTE LOGI APARECIDA DE GOIANIA/GO        5 STQQS.      2       3           2  66,7       2 100,0            0,0               0,0 100,0          1  33,3            0,0
+                GOIANIA/GO                     1 STQQS.     15      18           8  44,4       8 100,0            0,0               0,0 100,0         10  55,6            0,0
+                TRINDADE/GO                    5 STQQS.      2       2               0,0           0,0            0,0               0,0   0,0          2 100,0            0,0
+                TOTAL                                       19      23          10  43,5      10 100,0            0,0               0,0 100,0         13  56,5            0,0
+
+TNL T NORTE TRA ACARA/PA                       1 .TQQSS      3       5           5 100,0       5 100,0            0,0               0,0 100,0              0,0            0,0
+                BRAGANCA/PA                    1 STQQS.      1       1           1 100,0       1 100,0            0,0               0,0 100,0              0,0            0,0
+                BREU BRANCO/PA                 1 STQQSS      4      10          10 100,0       9  90,0            0,0           1  10,0  90,0              0,0            0,0
+                BUJARU/PA                      2 STQQS.      4       4           4 100,0       4 100,0            0,0               0,0 100,0              0,0            0,0
+                CONCORDIA DO PARA/PA           1 STQQS.      3       4           4 100,0       2  50,0            0,0           2  50,0  50,0              0,0            0,0
+                GOIANESIA DO PARA/PA           1 STQQSS      3       7           7 100,0       6  85,7            0,0           1  14,3  85,7              0,0            0,0
+
+TNORTE TRANSPORTE EIRELI                                                                                                                                             PAG:   6
+ssw0088                                                                    084 - PERFORMANCE DE ENTREGAS                                                       01/01/25 01:49
+                                                                                   MES: 12/24
+
+                                                                                                     ENTREGUES                                           NAO ENTREGUES
+---------------+-------------------------+------+------+------+-------+   --------+-----+-------+-----+--------+-----+-----------+-----+-----+   -------+-----+--------+-----
+UNIDADE DESTINO CIDADE/UF DESTINO        |PRAZO |DIAS  |QUANT |QCTRCS |   ENTREGUE      |NOPRAZO      |ATRASCLI      |ATRASTRANSP      |PERF     NOPRAZO      |ATRASADO
+                                         |DIA UT|SEMANA|CLIEN |EXPEDI |   QCTRC        %|QCTRC       %|QCTRC        %|QCTRC           %|    %    QCTRC       %|QCTRC       %
+---------------+-------------------------+------+------+------+-------+   --------+-----+-------+-----+--------+-----+-----------+-----+-----+   -------+-----+--------+-----
+                JACUNDA/PA                     1 .TQQSS      6      13          13 100,0       9  69,2            0,0           4  30,8  69,2              0,0            0,0
+                PARAGOMINAS/PA                 1 .TQQSS      1       4           3  75,0       3 100,0            0,0               0,0 100,0              0,0        1  25,0
+                SAO MIGUEL DO GUAMA/PA         1 .TQQSS      4       7           7 100,0       7 100,0            0,0               0,0 100,0              0,0            0,0
+                TOME-ACU/PA                    1 STQQS.      9      22          22 100,0      19  86,4            0,0           3  13,6  86,4              0,0            0,0
+                TUCURUI/PA                     1 STQQSS      6      23          23 100,0      15  65,2            0,0           8  34,8  65,2              0,0            0,0
+                TOTAL                                       44     100          99  99,0      80  80,8            0,0          19  19,2  80,8              0,0        1   1,0
+
+TOP TOP LOGISTI ALVORADA/TO                    7 STQQS.      1       1           1 100,0       1 100,0            0,0               0,0 100,0              0,0            0,0
+                ARAGUAINA/TO                   2 STQQS.      4       8           7  87,5       6  85,7            0,0           1  14,3  85,7          1  12,5            0,0
+                ARAGUATINS/TO                  7 STQQS.      1       2               0,0           0,0            0,0               0,0   0,0          2 100,0            0,0
+                ARRAIAS/TO                     7 STQQS.      1       1               0,0           0,0            0,0               0,0   0,0          1 100,0            0,0
+                BARRA DO OURO/TO               8 STQQS.      1       1           1 100,0       1 100,0            0,0               0,0 100,0              0,0            0,0
+                BURITI DO TOCANTINS/TO         7 STQQS.      1       1               0,0           0,0            0,0               0,0   0,0          1 100,0            0,0
+                CARIRI DO TOCANTINS/TO         7 STQQS.      1       1           1 100,0       1 100,0            0,0               0,0 100,0              0,0            0,0
+                CARMOLANDIA/TO                 8 STQQS.      1       2           2 100,0       2 100,0            0,0               0,0 100,0              0,0            0,0
+                COMBINADO/TO                   7 STQQS.      1       1               0,0           0,0            0,0               0,0   0,0          1 100,0            0,0
+                COUTO DE MAGALHAES/TO          7 STQQS.      1       1           1 100,0       1 100,0            0,0               0,0 100,0              0,0            0,0
+                FORMOSO DO ARAGUAIA/TO         7 STQQS.      1       1           1 100,0       1 100,0            0,0               0,0 100,0              0,0            0,0
+                GUARAI/TO                      4 STQQS.      1       1           1 100,0           0,0            0,0           1 100,0   0,0              0,0            0,0
+                GURUPI/TO                      2 STQQS.      4       9           7  77,8       6  85,7            0,0           1  14,3  85,7          1  11,1        1  11,1
+                LAGOA DA CONFUSAO/TO           7 STQQS.      1       1           1 100,0       1 100,0            0,0               0,0 100,0              0,0            0,0
+                NOVA OLINDA/TO                 5 STQQS.      1       1           1 100,0       1 100,0            0,0               0,0 100,0              0,0            0,0
+                PALMAS/TO                      1 STQQS.      9      25          14  56,0      11  78,6        1   7,1           2  14,3  84,6          8  32,0        3  12,0
+                PARAISO DO TOCANTINS/TO        1 STQQS.      2       2           2 100,0       1  50,0            0,0           1  50,0  50,0              0,0            0,0
+                PORTO NACIONAL/TO              1 STQQS.      3       7           3  42,9       2  66,7            0,0           1  33,3  66,7          1  14,3        3  42,9
+                SANTA TEREZA DO TOCAN/TO       7 STQQS.      1       1           1 100,0           0,0            0,0           1 100,0   0,0              0,0            0,0
+                TAGUATINGA/TO                  7 STQQS.      1       1           1 100,0       1 100,0            0,0               0,0 100,0              0,0            0,0
+                WANDERLANDIA/TO                7 STQQS.      1       1               0,0           0,0            0,0               0,0   0,0          1 100,0            0,0
+                XAMBIOA/TO                     8 STQQS.      1       1           1 100,0       1 100,0            0,0               0,0 100,0              0,0            0,0
+                TOTAL                                       39      70          46  65,7      37  80,4        1   2,2           8  17,4  82,2         17  24,3        7  10,0
+
+TUC DOUGLAS MOT BREU BRANCO/PA                 1 STQQSS      2       2           2 100,0           0,0            0,0           2 100,0   0,0              0,0            0,0
+                TUCURUI/PA                     1 STQQSS      3       7           7 100,0       1  14,3            0,0           6  85,7  14,3              0,0            0,0
+                TOTAL                                        5       9           9 100,0       1  11,1            0,0           8  88,9  11,1              0,0            0,0
+
+VCS COMAN. JESU LIMOEIRO DO AJURU/PA           3 .T..S.      2      11           8  72,7       6  75,0            0,0           2  25,0  75,0          3  27,3            0,0
+                TOTAL                                        2      11           8  72,7       6  75,0            0,0           2  25,0  75,0          3  27,3            0,0
+
+ZEN BARCO ZENI  PONTA DE PEDRAS/PA             3 .T.Q..      8      38          19  50,0      17  89,5            0,0           2  10,5  89,5          5  13,2       14  36,8
+                TOTAL                                        8      38          19  50,0      17  89,5            0,0           2  10,5  89,5          5  13,2       14  36,8
+---------------+-------------------------+------+------+------+-------+   --------+-----+-------+-----+--------+-----+-----------+-----+-----+   -------+-----+--------+-----
+TOTAL GERAL                                              2.000  10.566       9.055  85,7   7.746  85,5      241   2,7       1.068  11,8  87,9        666   6,3      845   8,0
+
+TNORTE TRANSPORTE EIRELI                                                                                                                                             PAG:   7
+ssw0088                                                                    084 - PERFORMANCE DE ENTREGAS                                                       01/01/25 01:49
+                                                                                   MES: 12/24
+
+                                                                                                     ENTREGUES                                           NAO ENTREGUES
+---------------+-------------------------+------+------+------+-------+   --------+-----+-------+-----+--------+-----+-----------+-----+-----+   -------+-----+--------+-----
+UNIDADE DESTINO CIDADE/UF DESTINO        |PRAZO |DIAS  |QUANT |QCTRCS |   ENTREGUE      |NOPRAZO      |ATRASCLI      |ATRASTRANSP      |PERF     NOPRAZO      |ATRASADO
+                                         |DIA UT|SEMANA|CLIEN |EXPEDI |   QCTRC        %|QCTRC       %|QCTRC        %|QCTRC           %|    %    QCTRC       %|QCTRC       %
+---------------+-------------------------+------+------+------+-------+   --------+-----+-------+-----+--------+-----+-----------+-----+-----+   -------+-----+--------+-----
+---------------+-------------------------+------+------+------+-------+   --------+-----+-------+-----+--------+-----+-----------+-----+-----+   -------+-----+--------+-----
+**ATRASCLI eh quantidade de CTRCs entregues com atraso e que tiveram pendencias de responsabilidade do cliente.
+**CTRCs baixados/cancelados nao sao considerados expedidos
+**ATRASTRANSP eh quantidade de CTRCs entregues com atraso, cuja responsabilidade nao foi do cliente.
+**PERFOR eh a relacao entre quant CTRCs entregues no prazo sobre os entregues menos os CTRCs com atraso responsab do cliente.
+
+TNORTE TRANSPORTE EIRELI                                                                                                                                             PAG:   8
+ssw0088                                                                    084 - PERFORMANCE DE ENTREGAS                                                       01/01/25 01:49
+                                                                              MES: 12/24 - R E S U M O
+
+                                                                                                     ENTREGUES                                           NAO ENTREGUES
+-------------------------------------------------------+------+-------+   --------+-----+-------+-----+--------+-----+-----------+-----+-----+   -------+-----+--------+-----
+UNIDADE DESTINO                                         QUANT |QCTRCS |   ENTREGUE      |NOPRAZO      |ATRASCLI      |ATRASTRANSP      |PERF     NOPRAZO      |ATRASADO
+                                                        CLIEN |EXPEDI |   QCTRC        %|QCTRC       %|QCTRC        %|QCTRC           %|    %    QCTRC       %|QCTRC       %
+-------------------------------------------------------+------+-------+   --------+-----+-------+-----+--------+-----+-----------+-----+-----+   -------+-----+--------+-----
+SPN SP NUNES COM.SERV.TRANSPORTE                            50     219          60  27,4      48  80,0       7   11,7           5   8,3  90,6        152  69,4        7   3,2
+                TOTAL AM                                    50     219          60  27,4      48  80,0       7   11,7           5   8,3  90,6        152  69,4        7   3,2
+
+NIS NAVEGACAO IRMAOS SANTANA                                36      73          27  37,0      24  88,9            0,0           3  11,1  88,9         27  37,0       19  26,0
+                TOTAL AP                                    36      73          27  37,0      24  88,9            0,0           3  11,1  88,9         27  37,0       19  26,0
+
+TGO TNORTE LOGISTICA E CARGAS LTDA                          19      23          10  43,5      10 100,0            0,0               0,0 100,0         13  56,5            0,0
+                TOTAL GO                                    19      23          10  43,5      10 100,0            0,0               0,0 100,0         13  56,5            0,0
+
+ABT ABAETETUBA                                              57     399         376  94,2     352  93,6       9    2,4          15   4,0  95,9         13   3,3       10   2,5
+AFC B/M COBRA SETE                                           2       2               0,0           0,0            0,0               0,0   0,0          2 100,0            0,0
+ARC ARCA DA ALIANCA                                          6       8           2  25,0           0,0            0,0           2 100,0   0,0          4  50,0        2  25,0
+BAR BARCARENA                                               50     387         362  93,5     335  92,5      10    2,8          17   4,7  95,2         11   2,8       14   3,6
+BLT PESERVERANCA -BALUART D OEIRAS                          16      27           2   7,4       1  50,0            0,0           1  50,0  50,0          4  14,8       21  77,8
+BOJ TRANSPORTE BOM JESUS                                    27     111          93  83,8      84  90,3            0,0           9   9,7  90,3         10   9,0        8   7,2
+BTR EDSON GOMES DOS SANTOS 7631751                          25      74          57  77,0      31  54,4            0,0          26  45,6  54,4         10  13,5        7   9,5
+CAS CASTANHAL                                              125     626         557  89,0     510  91,6      30    5,4          17   3,0  96,8         21   3,4       48   7,7
+CEN T NORTE  TRANSPORTE EIRELI                             205   2.766       2.523  91,2   2.376  94,2      83    3,3          64   2,5  97,4         27   1,0      216   7,8
+CJO CARAPAJO                                               240     996         939  94,3     824  87,8      50    5,3          65   6,9  92,7              0,0       57   5,7
+EDN EDNALDO DOS REMEDIO ALVES                              217   1.047       1.004  95,9     877  87,3       5    0,5         122  12,2  87,8         19   1,8       24   2,3
+GLM MELO - GLOBO DO MAR                                      7      18          13  72,2      11  84,6            0,0           2  15,4  84,6          2  11,1        3  16,7
+IGM DARCY JESSE  (IGARAPE-MIRI)                             25     182         174  95,6     149  85,6       2    1,1          23  13,2  86,6              0,0        8   4,4
+JGL J V DE OLIVEIRA LTDA                                    45     147         135  91,8      76  56,3       2    1,5          57  42,2  57,1          3   2,0        9   6,1
+JSN BARCO JOSE NETO                                          6       9               0,0           0,0            0,0               0,0   0,0          4  44,4        5  55,6
+MAB MARABA                                                 295   1.754       1.466  83,6   1.118  76,3      34    2,3         314  21,4  78,1        121   6,9      167   9,5
+MEL MADRI EXPRESS LOGISTICA                                 18      76          70  92,1      56  80,0            0,0          14  20,0  80,0          6   7,9            0,0
+MEM M A BARBOSA TRANSPORTES                                 20      80          73  91,3      45  61,6       2    2,7          26  35,6  63,4          2   2,5        5   6,3
+MOJ ANTONIO NELCY G RODRIGUES                               24     113         103  91,2      50  48,5       1    1,0          52  50,5  49,0              0,0       10   8,8
+NHA NHAMUNDA                                                 3       6           5  83,3       4  80,0            0,0           1  20,0  80,0              0,0        1  16,7
+NPL NORTE PARA TRANSPORTE E LOG                            239     757         525  69,3     416  79,2            0,0         109  20,8  79,2        143  18,9       89  11,8
+NST NORTE PARA FILIAL - SANTAREM                            13      19          16  84,2      14  87,5            0,0           2  12,5  87,5          2  10,5        1   5,3
+OST TRANSPORTADORA OESTE CARGAS                              4       6           4  66,7       1  25,0            0,0           3  75,0  25,0          2  33,3            0,0
+PLF BM PAULO AFONSO                                         16      35          19  54,3      14  73,7            0,0           5  26,3  73,7          6  17,1       10  28,6
+PNT PONTO NORTE LOGISTICA                                    3      13               0,0           0,0            0,0               0,0   0,0              0,0       13 100,0
+RMA RIO MADEIRA                                              5       7               0,0           0,0            0,0               0,0   0,0          1  14,3        6  85,7
+RSD R. S. DOS SANTOS LUZ                                    31     144         124  86,1      71  57,3       4    3,2          49  39,5  59,2              0,0       20  13,9
+SAT I S DE SANTANA JUNIOR                                   40     119         101  84,9      88  87,1            0,0          13  12,9  87,1          5   4,2       13  10,9
+SDG ARANAI - SAO DOMINGOS                                   26      62          13  21,0      11  84,6            0,0           2  15,4  84,6         25  40,3       24  38,7
+SMT SALMISTA                                                 7      33          21  63,6       9  42,9       1    4,8          11  52,4  45,0          6  18,2        6  18,2
+TNL T NORTE TRANSLOG EIRELI                                 44     100          99  99,0      80  80,8            0,0          19  19,2  80,8              0,0        1   1,0
+TUC DOUGLAS MOTA GONCALVES                                   5       9           9 100,0       1  11,1            0,0           8  88,9  11,1              0,0            0,0
+VCS COMAN. JESUS - V C S SANTOS                              2      11           8  72,7       6  75,0            0,0           2  25,0  75,0          3  27,3            0,0
+ZEN BARCO ZENI                                               8      38          19  50,0      17  89,5            0,0           2  10,5  89,5          5  13,2       14  36,8
+                TOTAL PA                                 1.856  10.181       8.912  87,5   7.627  85,6     233    2,6       1.052  11,8  87,9        457   4,5      812   8,0
+
+TOP TOP LOGISTICA - JBQ LOGISTICA                           39      70          46  65,7      37  80,4       1    2,2           8  17,4  82,2         17  24,3        7  10,0
+                TOTAL TO                                    39      70          46  65,7      37  80,4       1    2,2           8  17,4  82,2         17  24,3        7  10,0
+---------------+-------------------------+------+------+------+-------+   --------+-----+-------+-----+--------+-----+-----------+-----+-----+   -------+-----+--------+-----
+TOTAL GERAL                                              2.000  10.566       9.055  85,7   7.746  85,5      241   2,7       1.068  11,8  87,9        666   6,3      845   8,0
+---------------+-------------------------+------+------+------+-------+   --------+-----+-------+-----+--------+-----+-----------+-----+-----+   -------+-----+--------+-----

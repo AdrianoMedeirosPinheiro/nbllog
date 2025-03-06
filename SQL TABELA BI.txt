@@ -1,0 +1,104 @@
+#455
+
+select r.serie_numero_ctrc as "CTRC",
+		r.tipo_do_documento as "Tipo do Documento",
+		r.unidade_emissora as "Unidade Emissora",
+		r.data_de_emissao  as "Data de Emissao",
+		r.cliente_remetente as "Cliente Remetente",
+		r.cidade_do_remetente as "Cidade do Remetente",
+		r.cidade_do_pagador as "Cidade do Pagador",
+		r.cliente_destinatario as "Cliente Destinatario",
+		r.endereco_do_destinatario as "Endereco do Destinatario",
+		r.bairro_do_destinatario as "Bairro do Destinatario",
+		r.setor_de_destino as "Setor de Destino",
+		r.praca_de_destino as "Praca de Destino",
+		r.cidade_do_destinatario as "Cidade do Destinatario",
+		r.uf_do_destinatario as "UF do Destinatario",
+		r.unidade_receptora as "Unidade Receptora",
+		r.numero_da_nota_fiscal as "Numero da Nota Fiscal",
+		r.peso_real_em_kg  as "Peso Real em Kg",
+		r.valor_da_mercadoria as "Valor da Mercadoria",
+		r.valor_do_frete as "Valor do Frete",
+		r.valor_do_frete_sem_icms as "Valor do Frete sem ICMS",
+		r.base_de_calculo as "Base de Calculo",
+		r.valor_do_icms as "Valor do ICMS",
+		r.valor_do_iss as "Valor do ISS",
+		r.peso_calculado_em_kg as "Peso Calculado em Kg",
+		r.primeiro_manifesto as "Primeiro Manifesto",
+		r.data_do_primeiro_manifesto as "Data do Primeiro Manifesto",
+		r.placa_do_cavalo as "Placo do Cavalo",
+		r.placa_da_carreta as "Placa da Carreta",
+		r.conferente_de_carga as "Conferente de Carga",
+		r.conferente_de_descarga as "Conferente de Descarga",
+		r.ultimo_manifesto as "Ultimo Manifesto",
+		r.data_do_ultimo_manifesto as "Data do Ultimo Manifesto",
+		r.ultimo_romaneio as "Ultimo Romaneio",
+		r.data_do_ultimo_romaneio as "Data do Ultimo Romaneio",
+		r.placa_de_entrega as "Placa de Entrega",
+		r.codigo_da_ultima_ocorrencia as "Codigo da Ultima Ocorrencia",
+		r.data_de_inclusao_da_ultima_ocorrencia as "Data de inclusao da Ultima Ocorrencia",
+		r.data_da_ultima_ocorrencia as "Data da Ultima Ocorrencia",
+		r.unidade_da_ultima_ocorrencia as "Unidade da Ultima Ocorrencia",
+		r.descricao_da_ultima_ocorrencia as "Última Ocorrencia",
+		r.previsao_de_entrega as "Previsao de Entrega",
+		r.data_da_entrega_realizada as "Data da Entrega Realizada",
+		r.quantidade_de_dias_de_atraso as "Quantidade de Dias de Atraso",
+		r.localizacao_atual as "Localização Atual",
+		r.cliente_pagador as "Cliente Pagador",
+		r.usuario_da_ultima_ocorrencia  as "Usuario da Ultima Ocorrencia",
+		r.notas_fiscais as "Notas Fiscais",
+		r.numero_dos_pedidos as "Numero dos Pedidos",
+		r.quantidade_de_volumes as "Quantidade de Volumes",
+		r.capa_de_canhoto_de_nf as "Capa do Canhoto da de NF",
+		r.hora_de_emissao as "Hora de Emissao",
+		r.data_de_autorizacao as "Data de Autorizacao",
+		r.uf_do_remetente as "UF do Remetente",
+		r.cnpj_pagador as "CNPJ Pagador",
+		r.cnpj_destinatario as "CNPJ Destinatario",
+		r.cidade_de_entrega as "Cidade de Entrega",
+		r.uf_de_entrega as "UF de Entrega",
+		r.cubagem_em_m3 as "Cubagem em m3",
+		r.aliquota as "Aliquota",
+		r.modalidade as "Modalidade",
+		r.unidade_responsavel_pagador as "Unidade Responsavel Pagador",
+		r.unidade_origem_do_primeiro_manifesto as "Unidade Origem do Primeiro Manifesto",
+		r.unidade_destino_do_ultimo_manifesto as "Unidade Destino do Ultimo Manifesto",
+		r.volume_cliente_shipment as "Volume Cliente/Shipment"
+from relatorios455 r
+where r.data_de_emissao >= '2024-01-01'
+and r.valor_do_frete > 1
+and not (r.cnpj_pagador in ('10889552000156', '10889552000580', '10889552000903', '10889552001047', '13709222000634'))
+and not (r.codigo_da_ultima_ocorrencia in ('94', '95'))
+
+
+
+
+
+#477
+
+select *
+from relatorios477 r
+
+
+
+#Ocorrencias
+
+select *
+from ocorrencia o
+
+
+
+
+#Conhecimento hist.
+
+select *
+from "Conhecimento Historico" ch
+
+
+#Orcamento
+
+select o.unidade as "UNIDADE",
+		o.dia as "DIA",
+		o."data" as "DATA",
+		o.valor as "VALOR"
+from orcamento o 

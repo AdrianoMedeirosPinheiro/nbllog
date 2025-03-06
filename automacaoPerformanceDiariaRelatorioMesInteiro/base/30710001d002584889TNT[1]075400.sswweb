@@ -1,0 +1,856 @@
+
+TNORTE TRANSPORTE EIRELI                                                                                                                                                                    PAG:   1
+ssw0878                                                                          012 - PERFORMANCE DOS CTRCS ENTREGUES                                                                04/02/25 12:54
+                                                                                                 03/02/25
+                                                                                                                               ---------------------------------------------------------------------
+FILIAL DESTINO: BOJ TRANSPORTE BOM JESUS                                                                                       |   NO PRAZO (DIAS UTEIS)   |         ATRASADO (DIAS UTEIS)         |
+--------------+-------+--------------------+-----------------+--+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+CTRC           NF      REMETENTE            PAGADOR/ABC          DESTINATARIO         CIDADE DESTINO   PREVENTR NOPRAZO ATRASAD|--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+--------------+-------+--------------------+--------------------+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+CEN 336984-6   0120547 CIMED REMEDIOS       CIMED REMEDIOS    .. A C BALIEIRO E BATIS PA BREVES        04/02/25     1                                X                                              
+CEN 337287-1   0120567 CIMED REMEDIOS       CIMED REMEDIOS    .. F N COMERCIAL LTDA M PA BREVES        05/02/25     2                            X                                                  
+CEN 337288-0   0120573 CIMED REMEDIOS       CIMED REMEDIOS    .. F N CIA LTDA         PA BREVES        05/02/25     2                            X                                                  
+CEN 337291-0   0120595 CIMED REMEDIOS       CIMED REMEDIOS    .. J J F BARBOSA LTDA   PA BREVES        05/02/25     2                            X                                                  
+TNL 247795-5   0009830 D F COMERCIO ATACADI D F COMERCIO ATAC .. CAIXA ECONOMICA      PA PORTEL        07/02/25     4                    X                                                          
+CEN 335348-6   0031987 G. C. S. COMERCIO AT G. C. S. COMERCIO .. AMAZONIA CLEAN LIMPE PA BREVES        28/01/25            4                                             X                          
+CEN 336562-0   0038274 J B B PORTILHO EIREL J B B PORTILHO EI .. ULISSES FUGACA MAGNO PA BREVES        03/02/25                                          X                                          
+CEN 337398-3   0011678 NUTRIXX SUPLEMENTOS  NUTRIXX SUPLEMENT .. INSTITUTO NACIONAL D PA BREVES        05/02/25     2                            X                                                  
+--------------+-------+--------------------+--------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+                                                                                                                               |--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+  CTRCS ENTREGUES POR DIA UTIL ADIANTADO/ATRASADO - TOTAL      8 CTRCS                                                                    1       4       1               1                        
+                                                                                                                      7       1                       1                                        
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+  PERCENTUAL POR DIA UTIL ADIANTADO/ATRASADO - TOTAL 100%                                                            88      13          13      50  13  13              13                        
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+* -  Indica Atraso por culpa do cliente.
+
+                                                                                    R E S U M O
+
+                                          QTD CTRCS ENTREGUES NO PRAZO                               QTD CTRCS ENTREGUES ATRASADOS
+                                          -------------------------------------                      ------------------------------------------------------
+                                                                     RESPTRANSP                                                RESPCLIENTE       RESPTRANSP
+                                          -------------------------------------                      ------------------------------------------------------
+                                          MAIS DE 05 DIAS ADIANTADO                                  DE 01 A 02 DIAS ATRASADOS                             
+                                          DE 03 A 05 DIAS ADIANTADO           1                      DE 03 A 05 DIAS ATRASADOS                            1
+                                          DE 01 A 02 DIAS ADIANTADO           5                      DE 06 A 09 DIAS ATRASADOS                             
+                                          00 NO DIA                           1                      MAIS DE 09 DIAS ATRASADOS                             
+                                          -------------------------------------                      ------------------------------------------------------
+                                          TOTAL                 QTD           7                      TOTAL                 QTD                            1
+                                                                  %          88                                              %                           13
+                                          -------------------------------------                      ------------------------------------------------------
+
+
+TNORTE TRANSPORTE EIRELI                                                                                                                                                                    PAG:   2
+ssw0878                                                                          012 - PERFORMANCE DOS CTRCS ENTREGUES                                                                04/02/25 12:54
+                                                                                                 03/02/25
+                                                                                                                               ---------------------------------------------------------------------
+FILIAL DESTINO: CEN T NORTE  TRANSPORTE EIRELI                                                                                 |   NO PRAZO (DIAS UTEIS)   |         ATRASADO (DIAS UTEIS)         |
+--------------+-------+--------------------+-----------------+--+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+CTRC           NF      REMETENTE            PAGADOR/ABC          DESTINATARIO         CIDADE DESTINO   PREVENTR NOPRAZO ATRASAD|--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+--------------+-------+--------------------+--------------------+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+CEN 337345-2   0424345 ((04))PARAENSE DIST. JSP TRANSPORTE LO .. C DE J A BAIA LTDA   PA ABAETETUBA    31/01/25            1*                                 X                                      
+CEN 337758-0   0424444 ((04))PARAENSE DIST. JSP TRANSPORTE LO .. P. D. G. CONTENTE    PA ABAETETUBA    04/02/25     1                                X                                              
+CEN 337760-1   0424525 ((04))PARAENSE DIST. JSP TRANSPORTE LO .. C DE J A BAIA LTDA   PA ABAETETUBA    04/02/25     1                                X                                              
+CEN 337761-0   0424490 ((04))PARAENSE DIST. JSP TRANSPORTE LO .. JOEFFERSON A. DA SIL PA ABAETETUBA    04/02/25     1                                X                                              
+CEN 337762-8   0424445 ((04))PARAENSE DIST. JSP TRANSPORTE LO .. P. D. G. CONTENTE    PA ABAETETUBA    04/02/25     1                                X                                              
+CEN 337515-3   2820821 AMAZON SERVICOS DE V FAVORITA TRANSPOR .. JESSICA CAMPELO FERR PA BAIAO         03/02/25                                          X                                          
+CEN 337514-5   0299470 ARMAZEM MOBLY ESPIRI FAVORITA TRANSPOR .. EDIL RODRIGUES       PA MOCAJUBA      04/02/25     1                                X                                              
+CEN 336170-5   0022564 AULADINO E LEITE LTD AULADINO E LEITE  .. CELIA DINA DA SILVA  PA ANANINDEUA    28/01/25            4                                             X                          
+CEN 336924-2   0084349 AULADINO E LEITE LTD AULADINO E LEITE  .. VANDERLEI PIMENTEL R PA BAIAO         30/01/25            2                                     X                                  
+CEN 336877-7   5938345 BUD COMERCIO DE ELET FAVORITA TRANSPOR .. MARINETE PEREIRA MOR PA BAIAO         30/01/25            2*                                     X                                  
+CEN 337681-8   0260999 CARVALHO  E BITTENCO CARVALHO  E BITTE .. CELIDONIO E OLIVO FA PA ABAETETUBA    04/02/25     1                                X                                              
+CEN 337683-4   0260988 CARVALHO  E BITTENCO CARVALHO  E BITTE B. CELIDONIO E OLIVO FA PA ABAETETUBA    04/02/25     1                                X                                              
+CEN 337685-1   0261052 CARVALHO  E BITTENCO CARVALHO  E BITTE .. F. C. LUCAS DIAS EIR PA ABAETETUBA    04/02/25     1                                X                                              
+CEN 337763-6   0261037 CARVALHO  E BITTENCO CARVALHO  E BITTE B. CELIDONIO E OLIVO FA PA ABAETETUBA    04/02/25     1                                X                                              
+CEN 337679-6   0261011 CARVALHO  E BITTENCO CARVALHO  E BITTE .. E J DA SILVA RODRIGU PA IGARAPE-MIRI  04/02/25     1                                X                                              
+CEN 337686-9   0261048 CARVALHO  E BITTENCO CARVALHO  E BITTE .. A L B MAIA DROGARIA  PA IGARAPE-MIRI  04/02/25     1                                X                                              
+TNL 248145-6   0006204 CELIDONIO E OLIVO FA CELIDONIO E OLIVO C. CELIDONIO E OLIVO FA PA CASTANHAL     03/02/25                                          X                                          
+TNL 248150-2   0006210 CELIDONIO E OLIVO FA CELIDONIO E OLIVO .. CELIDONIO E OLIVO FA PA CASTANHAL     03/02/25                                          X                                          
+TNL 248153-7   0006186 CELIDONIO E OLIVO FA CELIDONIO E OLIVO .. CELIDONIO E OLIVO FA PA CASTANHAL     03/02/25                                          X                                          
+TNL 248190-1   0016432 CELIDONIO E OLIVO FA CELIDONIO E OLIVO .. CELIDONIO E OLIVO FA PA CASTANHAL     03/02/25                                          X                                          
+TNL 248191-0   0016431 CELIDONIO E OLIVO FA CELIDONIO E OLIVO C. CELIDONIO E OLIVO FA PA CASTANHAL     03/02/25                                          X                                          
+TNL 248144-8   0008373 CELIDONIO E OLIVO FA CELIDONIO E OLIVO .. CELIDONIO E OLIVO FA PA CASTANHAL     03/02/25                                          X                                          
+TNL 248160-0   0008372 CELIDONIO E OLIVO FA CELIDONIO E OLIVO C. CELIDONIO E OLIVO FA PA CASTANHAL     03/02/25                                          X                                          
+TNL 248164-2   0003056 CELIDONIO E OLIVO FA CELIDONIO E OLIVO .. CELIDONIO E OLIVO FA PA CASTANHAL     03/02/25                                          X                                          
+TNL 247818-8   0013281 CENTRAL ATACADO LTDA CENTRAL ATACADO L .. PAULO SERGIO ASSUNCA PA CAMETA        31/01/25            1*                                 X                                      
+TNL 248290-8   0210819 CENTROFARMA DISTRIBU CENTROFARMA DISTR B. CELIDONIO E OLIVO FA PA ABAETETUBA    04/02/25     1                                X                                              
+TNL 248292-4   0210821 CENTROFARMA DISTRIBU CENTROFARMA DISTR .. CELIDONIO E OLIVO FA PA ABAETETUBA    04/02/25     1                                X                                              
+TNL 248294-1   0210965 CENTROFARMA DISTRIBU CENTROFARMA DISTR .. N C DO REGO          PA ABAETETUBA    04/02/25     1                                X                                              
+TNL 248297-5   0210873 CENTROFARMA DISTRIBU CENTROFARMA DISTR .. TTP COMERCIO DE MEDI PA ABAETETUBA    04/02/25     1                                X                                              
+TNL 248306-8   0210956 CENTROFARMA DISTRIBU CENTROFARMA DISTR .. DEIZE FERREIRA DA SI PA ABAETETUBA    04/02/25     1                                X                                              
+TNL 248283-5   0210876 CENTROFARMA DISTRIBU CENTROFARMA DISTR .. DROGARIA JLF E COMER PA BAIAO         04/02/25     1                                X                                              
+TNL 248285-1   0210913 CENTROFARMA DISTRIBU CENTROFARMA DISTR .. C.R.PEREIRA FARMACIA PA CAMETA        04/02/25     1                                X                                              
+CEN 337610-9   0120774 CIMED REMEDIOS       CIMED REMEDIOS    B. CELIDONIO E OLIVO FA PA ABAETETUBA    04/02/25     1                                X                                              
+CEN 337624-9   0120779 CIMED REMEDIOS       CIMED REMEDIOS    .. 5839-VILHENA E SILVA PA ABAETETUBA    04/02/25     1                                X                                              
+CEN 337539-1   0120671 CIMED REMEDIOS       CIMED REMEDIOS    .. MARIANA SINDONIO ATH PA ANANINDEUA    03/02/25                                          X                                          
+CEN 337536-6   0120655 CIMED REMEDIOS       CIMED REMEDIOS    .. J E ECOM DE PRODUTOS PA BELEM         03/02/25                                          X                                          
+CEN 337608-7   0120670 CIMED REMEDIOS       CIMED REMEDIOS    .. E J DA SILVA RODRIGU PA IGARAPE-MIRI  04/02/25     1                                X                                              
+CEN 337578-1   0120669 CIMED REMEDIOS       CIMED REMEDIOS    .. SUPERMERCADO IMPERIA PA SANTA IZABEL  03/02/25                                          X                                          
+TNL 248181-2   0690173 COMERCIAL AUTOMOTIVA COMERCIAL AUTOMOT .. OZENITA C. VALENTE M PA ABAETETUBA    04/02/25     1                                X                                              
+TNL 248185-5   0690359 COMERCIAL AUTOMOTIVA COMERCIAL AUTOMOT .. JOSENILSON PER       PA ABAETETUBA    04/02/25     1                                X                                              
+TNL 248183-9   0690303 COMERCIAL AUTOMOTIVA COMERCIAL AUTOMOT .. MANOEL J P FERREIRA  PA IGARAPE-MIRI  04/02/25     1                                X                                              
+CEN 337512-9   0013846 COMERCIO DE BIKE E P FAVORITA TRANSPOR .. FERNANDO RIOS CORREA PA MOCAJUBA      04/02/25     1                                X                                              
+TNL 248103-1   0151867 DAMASIO DIST DE MOTO DAMASIO DIST DE M .. EDIVALDO FERREIRA DO PA ABAETETUBA    04/02/25     1                                X                                              
+TNL 248094-8   0151842 DAMASIO DIST DE MOTO DAMASIO DIST DE M .. O J DE OLIVEIRA DE L PA BAIAO         03/02/25                                          X                                          
+TNL 248096-4   0151894 DAMASIO DIST DE MOTO DAMASIO DIST DE M .. E CRISTINA DA COSTA  PA CAMETA        03/02/25                                          X                                          
+TNL 248107-3   0151822 DAMASIO DIST DE MOTO DAMASIO DIST DE M .. O DOS S P CORREA     PA IGARAPE-MIRI  04/02/25     1                                X                                              
+TNL 248098-1   0151947 DAMASIO DIST DE MOTO DAMASIO DIST DE M .. ASSIS DE SOUSA RODRI PA MOCAJUBA      04/02/25     1                                X                                              
+TNL 248099-9   0151948 DAMASIO DIST DE MOTO DAMASIO DIST DE M .. J. DO C. P. ALMEIDA  PA MOCAJUBA      04/02/25     1                                X                                              
+TGO 015151-3   0222466 DISTRIBUIDORA BRASIL DISTRIBUIDORA BRA C. CAPITAL MED DISTRIBU PA CASTANHAL     05/02/25     2                            X                                                  
+CEN 336908-1   0027039 ECOFARMA COMERCIO DE S A PHARMACOS E C C. S A PHARMACOS E COSM PA BELEM         30/01/25            2                                     X                                  
+TGO 015088-6   0044833 EDUARDO KRAFCHINSKI  TXS TRANSPORTES L .. VALDICELIO RIBEIRO D PA ANANINDEUA    04/02/25     1                                X                                              
+TGO 015121-1   0045055 EDUARDO KRAFCHINSKI  TXS TRANSPORTES L .. SERGIO F PAZ LTDA    PA MOCAJUBA      04/02/25     1                                X                                              
+
+TNORTE TRANSPORTE EIRELI                                                                                                                                                                    PAG:   3
+ssw0878                                                                          012 - PERFORMANCE DOS CTRCS ENTREGUES                                                                04/02/25 12:54
+                                                                                                 03/02/25
+                                                                                                                               ---------------------------------------------------------------------
+FILIAL DESTINO: CEN T NORTE  TRANSPORTE EIRELI                                                                                 |   NO PRAZO (DIAS UTEIS)   |         ATRASADO (DIAS UTEIS)         |
+--------------+-------+--------------------+-----------------+--+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+CTRC           NF      REMETENTE            PAGADOR/ABC          DESTINATARIO         CIDADE DESTINO   PREVENTR NOPRAZO ATRASAD|--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+--------------+-------+--------------------+--------------------+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+TGO 015116-5   0106666 EDUARDO KRAFCHINSKI  TXS TRANSPORTES L .. MARIO CARDOSO DO REG PA ABAETETUBA    04/02/25     1                                X                                              
+CEN 337804-7   0117440 EMBREPAR AUTOMOTIVA  EMBREPAR AUTOMOTI .. MARINALDO FERREIRA G PA ABAETETUBA    04/02/25     1                                X                                              
+CEN 337801-2   0117438 EMBREPAR AUTOMOTIVA  EMBREPAR AUTOMOTI .. A B RABELO COMERCIO  PA BAIAO         04/02/25     1                                X                                              
+CEN 336376-7   0155642 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. REIS COMERCIO DE PRO PA ANANINDEUA    28/01/25            2*                                     X                                  
+CEN 337845-4   0156232 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. PRECO POPULAR COM. D PA ANANINDEUA    04/02/25     1                                X                                              
+CEN 337374-6   0156080 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. ONCOLOGICA DO BRASIL PA BELEM         31/01/25            1*                                 X                                      
+CEN 337678-8   0156213 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. 0000255393-MPC COM D PA BELEM         03/02/25                                          X                                          
+CEN 337844-6   0156231 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. 0000260594-INFARMA C PA BELEM         04/02/25     1                                X                                              
+CEN 337846-2   0156233 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. OLEGAR DA ROCHA COME PA BELEM         04/02/25     1                                X                                              
+CEN 337849-7   0156236 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. OLEGAR DA ROCHA COME PA BELEM         04/02/25     1                                X                                              
+CEN 337850-1   0156331 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. ECOFARMA COMERCIO DE PA BELEM         04/02/25     1                                X                                              
+CEN 337852-7   0156333 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. SIMOES E SOUSA COMER PA BELEM         04/02/25     1                                X                                              
+CEN 337853-5   0156334 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. FARMACIA ENTRONCAMEN PA BELEM         04/02/25     1                                X                                              
+CEN 337854-3   0156335 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. J T DA CONCEICAO MOU PA BELEM         04/02/25     1                                X                                              
+CEN 337856-0   0156337 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. A. C. ANDRE - ME     PA BELEM         04/02/25     1                                X                                              
+CEN 337857-8   0156338 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. FARMACIA PINHEIRO LT PA BELEM         04/02/25     1                                X                                              
+CEN 337654-1   0156189 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. VEW COMERCIO DE PROD PA CASTANHAL     03/02/25                                          X                                          
+TGO 015083-5   2277363 FABESUL DISTRIBUIDOR TXS TRANSPORTES L .. FRIGELAR COMERCIO E  PA BELEM         04/02/25     1                                X                                              
+CEN 336588-3   0051667 FRANKLIN ELECTRIC IN FRANKLIN ELECTRIC .. ULTRALAR COMERCIO DE PA ABAETETUBA    29/01/25            3*                                         X                              
+CEN 337304-5   0051721 FRANKLIN ELECTRIC IN FRANKLIN ELECTRIC .. SAO PAULO DISTRIBUID PA ANANINDEUA    03/02/25                                          X                                          
+CEN 337305-3   0051722 FRANKLIN ELECTRIC IN FRANKLIN ELECTRIC .. SAO PAULO DISTRIBUID PA ANANINDEUA    03/02/25                                          X                                          
+CEN 337628-1   0051743 FRANKLIN ELECTRIC IN FRANKLIN ELECTRIC .. ACQUA AGUA DE COCO D PA ANANINDEUA    03/02/25                                          X                                          
+CEN 337311-8   0051715 FRANKLIN ELECTRIC IN FRANKLIN ELECTRIC .. UNIVERSAL PIPA LTDA  PA BARCARENA     31/01/25            1*                                 X                                      
+CEN 337625-7   0051742 FRANKLIN ELECTRIC IN FRANKLIN ELECTRIC .. CAVALCANTE COM DE MA PA BELEM         03/02/25                                          X                                          
+CEN 337626-5   0051730 FRANKLIN ELECTRIC IN FRANKLIN ELECTRIC .. MERCO S SERVS E COM  PA BELEM         03/02/25                                          X                                          
+CEN 337629-0   0051733 FRANKLIN ELECTRIC IN FRANKLIN ELECTRIC .. NORTE PROTECAO LTDA  PA BELEM         03/02/25                                          X                                          
+CEN 337300-2   0051724 FRANKLIN ELECTRIC IN FRANKLIN ELECTRIC .. PREMAZON PREMOLDADOS PA MARITUBA      31/01/25            1*                                 X                                      
+CEN 337509-9   2353077 FUJIOKA ELETRO IMAGE FAVORITA TRANSPOR .. SOUSA  FEITOZA LTDA  PA MOCAJUBA      04/02/25     1                                X                                              
+CEN 336559-0   0032150 G. C. S. COMERCIO AT G. C. S. COMERCIO .. AMAZONIA CLEAN LIMPE PA SANTA BARBARA 29/01/25            3*                                         X                              
+CEN 337803-9   0149846 GIRANDO COMERCIO DE  GIRANDO COMERCIO  .. A B RABELO COMERCIO  PA BAIAO         04/02/25     1                                X                                              
+CEN 337802-1   0149834 GIRANDO COMERCIO DE  GIRANDO COMERCIO  .. A. M. SANTOS AUTO CE PA IGARAPE-MIRI  04/02/25     1                                X                                              
+TG2 015035-5   0001224 GM INDUSTRIA E COMER GM INDUSTRIA E CO .. T S FERREIRA LTDA    PA CASTANHAL     31/01/25            1                                 X                                      
+TNL 248038-7   0014066 GOLDMED HOSPITALAR   GOLDMED HOSPITALA .. CLINICA MEDICA LOBAT PA IGARAPE-MIRI  04/02/25     1                                X                                              
+TGO 015127-1   0027038 GYN ATACADO EIRELI   GYN ATACADO EIREL .. SELMA DA SILVA FERRE PA BELEM         05/02/25     2                            X                                                  
+TGO 015128-9   0027033 GYN ATACADO EIRELI   GYN ATACADO EIREL .. NATALY JOYCE VIDAL 9 PA BELEM         05/02/25     2                            X                                                  
+TGO 015129-7   0027034 GYN ATACADO EIRELI   GYN ATACADO EIREL .. 41012198 CIDIO FURTA PA BELEM         05/02/25     2                            X                                                  
+CEN 336921-8   0038342 J B B PORTILHO EIREL J B B PORTILHO EI .. E A DA CUNHA LTDA    PA ABAETETUBA    30/01/25            2                                     X                                  
+CEN 337687-7   0000936 JET MOTOS            JET MOTOS         .. RAFAEL DO SOCORRO ME PA CAMETA        03/02/25                                          X                                          
+TNL 248037-9   0055880 K.C.L. MONTEIRO EIRE GERINALDO NUNES A C. GERINALDO NUNES ARAG PA MOCAJUBA      04/02/25     1                                X                                              
+CEN 337527-7   1004373 LIDER COMERCIO E IND S A PHARMACOS E C C. S A PHARMACOS E COSM PA BELEM         03/02/25                                          X                                          
+CEN 336900-5   6227922 LOJA ELECTROLUX LTDA FAVORITA TRANSPOR .. JONILSON BRAGA BRAGA PA MOCAJUBA      30/01/25            2*                                     X                                  
+CEN 337510-2   0146012 M D MOVEIS LTDA      FAVORITA TRANSPOR .. CARLA OLIVERA GUIMAR PA BAIAO         03/02/25                                          X                                          
+CEN 336113-6   0680708 MAGAZINE LUIZA S/A   FAVORITA TRANSPOR .. ELCIONE FERREIRA PIN PA BAIAO         28/01/25            4*                                             X                          
+CEN 336115-2   0680721 MAGAZINE LUIZA S/A   FAVORITA TRANSPOR .. ALCIONE DE SOUSA CAR PA BAIAO         28/01/25            4*                                             X                          
+TNL 248031-0   0002392 MAIS SAUDE           MAIS SAUDE        .. MARIA ANTONICE GONCA PA MOCAJUBA      04/02/25     1                                X                                              
+TG2 014978-1   0003582 MARTINS E LAUREANO L MARTINS E LAUREAN .. VITOR DIAS           PA BELEM         29/01/25            3*                                         X                              
+TNL 248220-7   0500180 MEDCENTRO TO DISTRIB MEDCENTRO TO DIST .. L. M. P. LOBATO      PA ABAETETUBA    04/02/25     1                                X                                              
+TNL 248221-5   0499853 MEDCENTRO TO DISTRIB MEDCENTRO TO DIST .. CELIDONIO E OLIVO FA PA ABAETETUBA    04/02/25     1                                X                                              
+TNL 248223-1   0499837 MEDCENTRO TO DISTRIB MEDCENTRO TO DIST B. CELIDONIO E OLIVO FA PA ABAETETUBA    04/02/25     1                                X                                              
+TNL 248228-2   0499881 MEDCENTRO TO DISTRIB MEDCENTRO TO DIST .. SOUZA E MESQUITA LTD PA ABAETETUBA    04/02/25     1                                X                                              
+TNL 248229-1   0499663 MEDCENTRO TO DISTRIB MEDCENTRO TO DIST .. TTP COMERCIO DE MEDI PA ABAETETUBA    04/02/25     1                                X                                              
+TNL 248232-1   0499701 MEDCENTRO TO DISTRIB MEDCENTRO TO DIST .. 52.904.367 CLEONILDE PA ABAETETUBA    04/02/25     1                                X                                              
+
+TNORTE TRANSPORTE EIRELI                                                                                                                                                                    PAG:   4
+ssw0878                                                                          012 - PERFORMANCE DOS CTRCS ENTREGUES                                                                04/02/25 12:54
+                                                                                                 03/02/25
+                                                                                                                               ---------------------------------------------------------------------
+FILIAL DESTINO: CEN T NORTE  TRANSPORTE EIRELI                                                                                 |   NO PRAZO (DIAS UTEIS)   |         ATRASADO (DIAS UTEIS)         |
+--------------+-------+--------------------+-----------------+--+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+CTRC           NF      REMETENTE            PAGADOR/ABC          DESTINATARIO         CIDADE DESTINO   PREVENTR NOPRAZO ATRASAD|--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+--------------+-------+--------------------+--------------------+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+TNL 248246-1   0499657 MEDCENTRO TO DISTRIB MEDCENTRO TO DIST .. CN COM. DE PROD. FAR PA ANANINDEUA    03/02/25                                          X                                          
+TNL 248272-0   0500116 MEDCENTRO TO DISTRIB MEDCENTRO TO DIST .. DROGARIA BRAGA BAIAO PA BAIAO         03/02/25                                          X                                          
+TNL 248201-1   0500154 MEDCENTRO TO DISTRIB MEDCENTRO TO DIST .. J S CUNHA COMERCIO   PA BELEM         03/02/25                                          X                                          
+TNL 248203-7   0500083 MEDCENTRO TO DISTRIB MEDCENTRO TO DIST .. POSTO EXEMPLO COMERC PA BELEM         03/02/25                                          X                                          
+TNL 248206-1   0500009 MEDCENTRO TO DISTRIB MEDCENTRO TO DIST .. BRAGA E PANTOJA COME PA BELEM         03/02/25                                          X                                          
+TNL 248214-2   0499715 MEDCENTRO TO DISTRIB MEDCENTRO TO DIST .. 0000255393-MPC COM D PA BELEM         03/02/25                                          X                                          
+TNL 248215-1   0499737 MEDCENTRO TO DISTRIB MEDCENTRO TO DIST .. FARMACIA POPULAR DO  PA BELEM         03/02/25                                          X                                          
+TNL 248216-9   0499641 MEDCENTRO TO DISTRIB MEDCENTRO TO DIST .. FERREIRA E CIA LTDA  PA BELEM         03/02/25                                          X                                          
+TNL 248250-9   0500072 MEDCENTRO TO DISTRIB MEDCENTRO TO DIST .. FARMACIA POPULAR DO  PA BELEM         03/02/25                                          X                                          
+TNL 248258-4   0499961 MEDCENTRO TO DISTRIB MEDCENTRO TO DIST .. INFARMA COMERCIO VAR PA BELEM         03/02/25                                          X                                          
+TNL 248264-9   0499792 MEDCENTRO TO DISTRIB MEDCENTRO TO DIST .. FARMACIA SANTOS      PA BELEM         03/02/25                                          X                                          
+TNL 248265-7   0500207 MEDCENTRO TO DISTRIB MEDCENTRO TO DIST .. SILVANA R DA COSTA M PA BELEM         03/02/25                                          X                                          
+TNL 248227-4   0499821 MEDCENTRO TO DISTRIB MEDCENTRO TO DIST .. D. PINHEIRO DA SILVA PA IGARAPE-MIRI  04/02/25     1                                X                                              
+TNL 248230-4   0499719 MEDCENTRO TO DISTRIB MEDCENTRO TO DIST .. DORIA LIMA E CIA LTD PA IGARAPE-MIRI  04/02/25     1                                X                                              
+TNL 248239-8   0499963 MEDCENTRO TO DISTRIB MEDCENTRO TO DIST .. J A G DA COSTA       PA MARITUBA      03/02/25                                          X                                          
+TNL 248268-1   0500196 MEDCENTRO TO DISTRIB MEDCENTRO TO DIST .. MEDEIROS E CARDOSO L PA MOCAJUBA      04/02/25     1                                X                                              
+TNL 248273-8   0500043 MEDCENTRO TO DISTRIB MEDCENTRO TO DIST .. DROGARIA BRAGA CENTR PA MOCAJUBA      04/02/25     1                                X                                              
+TNL 248277-1   0499661 MEDCENTRO TO DISTRIB MEDCENTRO TO DIST .. EDILSON A MARTINS    PA MOCAJUBA      04/02/25     1                                X                                              
+TGO 014992-6   0009910 NF FARMACEUTICA E LO NF FARMACEUTICA E .. BASE DE ADMINISTRACA PA BELEM         30/01/25            2*                                     X                                  
+TNL 248128-6   0008764 ONIVET DISTRIBUIDORA ONIVET DISTRIBUID .. ROSIANE COSTA MESQUI PA BELEM         03/02/25                                          X                                          
+TNL 248132-4   0008784 ONIVET DISTRIBUIDORA ONIVET DISTRIBUID .. PROVET COMERCIO E SE PA BELEM         03/02/25                                          X                                          
+TNL 248134-1   0008783 ONIVET DISTRIBUIDORA ONIVET DISTRIBUID .. C F MIRANDA COMERCIO PA BELEM         03/02/25                                          X                                          
+TNL 248135-9   0008775 ONIVET DISTRIBUIDORA ONIVET DISTRIBUID .. ALCOLUMBRE CENTRO VE PA BELEM         03/02/25                                          X                                          
+TGO 015082-7   0008111 PRODUTOS CITOLOGICOS TXS TRANSPORTES L .. LABORATORIO DE PATOL PA BELEM         04/02/25     1                                X                                              
+TGO 015155-6   0008128 PRODUTOS CITOLOGICOS TXS TRANSPORTES L .. LABORATORIO DR. EDVA PA BELEM         05/02/25     2                            X                                                  
+TNL 248119-7   0000705 ROCHESTER DISTRIBUID ROCHESTER DISTRIB .. J. S. DIST. (MARITUB PA MARITUBA      03/02/25                                          X                                          
+TGO 014855-5   0027467 SIDONE INDUSTRIA E C TECLOG TRANSPORTE .. SENDAS DISTIBUIDORA  PA BELEM         03/02/25                                          X                                          
+TNC 044653-0   0032703 SIM DISTRIBUIDORA E  SIM DISTRIBUIDORA .. JOSIVAL S PORTILHO   PA CAMETA        30/01/25            2*                                     X                                  
+TNC 044655-6   0078393 SIM DISTRIBUIDORA E  SIM DISTRIBUIDORA .. ALINE BITENCOURT CAR PA ABAETETUBA    30/01/25            2                                     X                                  
+TNC 044656-4   0078388 SIM DISTRIBUIDORA E  SIM DISTRIBUIDORA .. PEDRO DEUZIMAR LUCAS PA BAIAO         30/01/25            2                                     X                                  
+CEN 337797-1   0087255 SK AUTOMOTIVE S/A DI SK AUTOMOTIVE S/A .. C. EAMP J COMERCIO D PA ABAETETUBA    04/02/25     1                                X                                              
+CEN 337800-4   0087242 SK AUTOMOTIVE S/A DI SK AUTOMOTIVE S/A .. F. DE M. VERAS       PA ABAETETUBA    04/02/25     1                                X                                              
+CEN 337805-5   0087247 SK AUTOMOTIVE S/A DI SK AUTOMOTIVE S/A .. MARINALDO FERREIRA G PA ABAETETUBA    04/02/25     1                                X                                              
+CEN 337769-5   0597803 TAPAJOS COMERCIO DE  TAPAJOS COMERCIO  .. CASTRO AMORIN LTDA   PA ABAETETUBA    04/02/25     1                                X                                              
+CEN 337772-5   0597790 TAPAJOS COMERCIO DE  TAPAJOS COMERCIO  .. TTP COMERCIO DE MEDI PA ABAETETUBA    04/02/25     1                                X                                              
+CEN 337773-3   0597792 TAPAJOS COMERCIO DE  TAPAJOS COMERCIO  .. CELIDONIO E OLIVO FA PA ABAETETUBA    04/02/25     1                                X                                              
+CEN 337774-1   0597782 TAPAJOS COMERCIO DE  TAPAJOS COMERCIO  B. CELIDONIO E OLIVO FA PA ABAETETUBA    04/02/25     1                                X                                              
+CEN 337785-7   0597799 TAPAJOS COMERCIO DE  TAPAJOS COMERCIO  .. SOUZA E MESQUITA LTD PA ABAETETUBA    04/02/25     1                                X                                              
+CEN 337770-9   0597806 TAPAJOS COMERCIO DE  TAPAJOS COMERCIO  .. ARIVALDO FERNANDES D PA BAIAO         03/02/25                                          X                                          
+CEN 337789-0   0597795 TAPAJOS COMERCIO DE  TAPAJOS COMERCIO  .. DROGARIA BRAGA BAIAO PA BAIAO         03/02/25                                          X                                          
+CEN 337780-6   0597788 TAPAJOS COMERCIO DE  TAPAJOS COMERCIO  .. G VIEIRA PINHEIRO EI PA IGARAPE-MIRI  04/02/25     1                                X                                              
+CEN 337782-2   0597780 TAPAJOS COMERCIO DE  TAPAJOS COMERCIO  .. FTB DE IGARAPE-MIRI  PA IGARAPE-MIRI  04/02/25     1                                X                                              
+CEN 337781-4   0597781 TAPAJOS COMERCIO DE  TAPAJOS COMERCIO  .. 0000224502-M E RPERE PA MOCAJUBA      04/02/25     1                                X                                              
+CEN 337790-3   0597794 TAPAJOS COMERCIO DE  TAPAJOS COMERCIO  .. ISIS PRODUTOS FARMAC PA MOCAJUBA      04/02/25     1                                X                                              
+CEN 337793-8   0597811 TAPAJOS COMERCIO DE  TAPAJOS COMERCIO  .. MEDEIROS E CARDOSO L PA MOCAJUBA      04/02/25     1                                X                                              
+CEN 336901-3   ******* VIA VAREJO S/A       FAVORITA TRANSPOR .. THAIS MACIEIRA RAMOS PA BAIAO         30/01/25            2*                                     X                                  
+CEN 336864-5   ******* VIA VAREJO S/A       FAVORITA TRANSPOR .. TONI LOPES PIMENTEL  PA MOCAJUBA      30/01/25            2*                                     X                                  
+CEN 336867-0   ******* VIA VAREJO S/A       FAVORITA TRANSPOR .. LETICIA MAIRA        PA MOCAJUBA      30/01/25            2*                                     X                                  
+
+TNORTE TRANSPORTE EIRELI                                                                                                                                                                    PAG:   5
+ssw0878                                                                          012 - PERFORMANCE DOS CTRCS ENTREGUES                                                                04/02/25 12:54
+                                                                                                 03/02/25
+                                                                                                                               ---------------------------------------------------------------------
+FILIAL DESTINO: CEN T NORTE  TRANSPORTE EIRELI                                                                                 |   NO PRAZO (DIAS UTEIS)   |         ATRASADO (DIAS UTEIS)         |
+--------------+-------+--------------------+-----------------+--+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+CTRC           NF      REMETENTE            PAGADOR/ABC          DESTINATARIO         CIDADE DESTINO   PREVENTR NOPRAZO ATRASAD|--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+--------------+-------+--------------------+--------------------+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+--------------+-------+--------------------+--------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+                                                                                                                               |--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+  CTRCS ENTREGUES POR DIA UTIL ADIANTADO/ATRASADO - TOTAL    152 CTRCS                                                                            5      46      13       3                        
+                                                                                                                    127      25                      76       6       3                        
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+  PERCENTUAL POR DIA UTIL ADIANTADO/ATRASADO - TOTAL 100%                                                            84      16                   3  50  30   4   9   2   2                        
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+* -  Indica Atraso por culpa do cliente.
+
+                                                                                    R E S U M O
+
+                                          QTD CTRCS ENTREGUES NO PRAZO                               QTD CTRCS ENTREGUES ATRASADOS
+                                          -------------------------------------                      ------------------------------------------------------
+                                                                     RESPTRANSP                                                RESPCLIENTE       RESPTRANSP
+                                          -------------------------------------                      ------------------------------------------------------
+                                          MAIS DE 05 DIAS ADIANTADO                                  DE 01 A 02 DIAS ATRASADOS          13                6
+                                          DE 03 A 05 DIAS ADIANTADO                                  DE 03 A 05 DIAS ATRASADOS           5                1
+                                          DE 01 A 02 DIAS ADIANTADO          81                      DE 06 A 09 DIAS ATRASADOS                             
+                                          00 NO DIA                          46                      MAIS DE 09 DIAS ATRASADOS                             
+                                          -------------------------------------                      ------------------------------------------------------
+                                          TOTAL                 QTD         127                      TOTAL                 QTD          18                7
+                                                                  %          84                                              %          12                5
+                                          -------------------------------------                      ------------------------------------------------------
+
+
+TNORTE TRANSPORTE EIRELI                                                                                                                                                                    PAG:   6
+ssw0878                                                                          012 - PERFORMANCE DOS CTRCS ENTREGUES                                                                04/02/25 12:54
+                                                                                                 03/02/25
+                                                                                                                               ---------------------------------------------------------------------
+FILIAL DESTINO: EDN EDNALDO DOS REMEDIO ALVES                                                                                  |   NO PRAZO (DIAS UTEIS)   |         ATRASADO (DIAS UTEIS)         |
+--------------+-------+--------------------+-----------------+--+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+CTRC           NF      REMETENTE            PAGADOR/ABC          DESTINATARIO         CIDADE DESTINO   PREVENTR NOPRAZO ATRASAD|--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+--------------+-------+--------------------+--------------------+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+CEN 336679-1   0155797 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. IRLA C DE L SILVA LT PA SANTA MARIA D 30/01/25     1                                X                                              
+CEN 337406-8   0138405 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. 0000256859-BARBOSA E PA NOVA ESPERANC 03/02/25                                          X                                          
+TGO 014962-4   0116045 VIARURAL COMERCIO DE VIARURAL COMERCIO .. GOMES FILHO - COM. E PA CAPANEMA      30/01/25     1                                X                                              
+TGO 015105-0   0116476 VIARURAL COMERCIO DE VIARURAL COMERCIO .. A E CARDOSO LTDA     PA CAPANEMA      04/02/25     1                                X                                              
+--------------+-------+--------------------+--------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+                                                                                                                               |--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+  CTRCS ENTREGUES POR DIA UTIL ADIANTADO/ATRASADO - TOTAL      4 CTRCS                                                                                    1                                        
+                                                                                                                      4                               3                                        
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+  PERCENTUAL POR DIA UTIL ADIANTADO/ATRASADO - TOTAL 100%                                                           100                              75  25                                        
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+* -  Indica Atraso por culpa do cliente.
+
+                                                                                    R E S U M O
+
+                                          QTD CTRCS ENTREGUES NO PRAZO                               QTD CTRCS ENTREGUES ATRASADOS
+                                          -------------------------------------                      ------------------------------------------------------
+                                                                     RESPTRANSP                                                RESPCLIENTE       RESPTRANSP
+                                          -------------------------------------                      ------------------------------------------------------
+                                          MAIS DE 05 DIAS ADIANTADO                                  DE 01 A 02 DIAS ATRASADOS                             
+                                          DE 03 A 05 DIAS ADIANTADO                                  DE 03 A 05 DIAS ATRASADOS                             
+                                          DE 01 A 02 DIAS ADIANTADO           3                      DE 06 A 09 DIAS ATRASADOS                             
+                                          00 NO DIA                           1                      MAIS DE 09 DIAS ATRASADOS                             
+                                          -------------------------------------                      ------------------------------------------------------
+                                          TOTAL                 QTD           4                      TOTAL                 QTD                             
+                                                                  %         100                                              %                             
+                                          -------------------------------------                      ------------------------------------------------------
+
+
+TNORTE TRANSPORTE EIRELI                                                                                                                                                                    PAG:   7
+ssw0878                                                                          012 - PERFORMANCE DOS CTRCS ENTREGUES                                                                04/02/25 12:54
+                                                                                                 03/02/25
+                                                                                                                               ---------------------------------------------------------------------
+FILIAL DESTINO: JSP JSP TRANSPORTE                                                                                             |   NO PRAZO (DIAS UTEIS)   |         ATRASADO (DIAS UTEIS)         |
+--------------+-------+--------------------+-----------------+--+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+CTRC           NF      REMETENTE            PAGADOR/ABC          DESTINATARIO         CIDADE DESTINO   PREVENTR NOPRAZO ATRASAD|--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+--------------+-------+--------------------+--------------------+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+TNL 247852-8   0179055 BRASFARMA COMERCIO D BRASFARMA COMERCI .. ZANOL E THOMAZ LTDA  PA NOVO REPARTIM 06/02/25     3                        X                                                      
+CEN 337612-5   0120697 CIMED REMEDIOS       CIMED REMEDIOS    .. P P LOPES FARMACIA L PA TUCURUI       04/02/25     1                                X                                              
+CEN 337614-1   0120724 CIMED REMEDIOS       CIMED REMEDIOS    .. G GARBIM MENESES LTD PA TUCURUI       04/02/25     1                                X                                              
+CEN 337615-0   0120728 CIMED REMEDIOS       CIMED REMEDIOS    .. G GARBIM MENESES LTD PA TUCURUI       04/02/25     1                                X                                              
+TGO 015080-1   0011103 CLP IND E CONFECCOES 52.138.634 MARCOS C. 52.138.634 MARCOS AU PA BARCARENA     04/02/25     1                                X                                              
+CEN 337528-5   0016842 MEDNUTRI HOSPITALAR  MEDNUTRI HOSPITAL .. HOSPITAL REGIONAL DE PA TUCURUI       04/02/25     1                                X                                              
+CEN 337533-1   0016844 MEDNUTRI HOSPITALAR  MEDNUTRI HOSPITAL .. HOSPITAL REGIONAL DE PA TUCURUI       04/02/25     1                                X                                              
+CEN 337721-1   0138628 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. 0000251129-ZANOL E T PA JACUNDA       04/02/25     1                                X                                              
+CEN 337728-8   0138639 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. 0000251129-ZANOL E T PA JACUNDA       04/02/25     1                                X                                              
+CEN 337714-8   0138619 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. ZANOL E THOMAZ LTDA  PA TAILANDIA     04/02/25     1                                X                                              
+CEN 337753-9   0138684 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. 0000257337-ZANOL E T PA TUCURUI       04/02/25     1                                X                                              
+TNL 248130-8   0008777 ONIVET DISTRIBUIDORA ONIVET DISTRIBUID .. 4678 - 40.940.456 RE PA TAILANDIA     04/02/25     1                                X                                              
+--------------+-------+--------------------+--------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+                                                                                                                               |--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+  CTRCS ENTREGUES POR DIA UTIL ADIANTADO/ATRASADO - TOTAL     12 CTRCS                                                                                                                             
+                                                                                                                     12                       1      11                                        
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+  PERCENTUAL POR DIA UTIL ADIANTADO/ATRASADO - TOTAL 100%                                                           100                       8      92                                            
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+* -  Indica Atraso por culpa do cliente.
+
+                                                                                    R E S U M O
+
+                                          QTD CTRCS ENTREGUES NO PRAZO                               QTD CTRCS ENTREGUES ATRASADOS
+                                          -------------------------------------                      ------------------------------------------------------
+                                                                     RESPTRANSP                                                RESPCLIENTE       RESPTRANSP
+                                          -------------------------------------                      ------------------------------------------------------
+                                          MAIS DE 05 DIAS ADIANTADO                                  DE 01 A 02 DIAS ATRASADOS                             
+                                          DE 03 A 05 DIAS ADIANTADO           1                      DE 03 A 05 DIAS ATRASADOS                             
+                                          DE 01 A 02 DIAS ADIANTADO          11                      DE 06 A 09 DIAS ATRASADOS                             
+                                          00 NO DIA                                                  MAIS DE 09 DIAS ATRASADOS                             
+                                          -------------------------------------                      ------------------------------------------------------
+                                          TOTAL                 QTD          12                      TOTAL                 QTD                             
+                                                                  %         100                                              %                             
+                                          -------------------------------------                      ------------------------------------------------------
+
+
+TNORTE TRANSPORTE EIRELI                                                                                                                                                                    PAG:   8
+ssw0878                                                                          012 - PERFORMANCE DOS CTRCS ENTREGUES                                                                04/02/25 12:54
+                                                                                                 03/02/25
+                                                                                                                               ---------------------------------------------------------------------
+FILIAL DESTINO: MAB MARABA                                                                                                     |   NO PRAZO (DIAS UTEIS)   |         ATRASADO (DIAS UTEIS)         |
+--------------+-------+--------------------+-----------------+--+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+CTRC           NF      REMETENTE            PAGADOR/ABC          DESTINATARIO         CIDADE DESTINO   PREVENTR NOPRAZO ATRASAD|--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+--------------+-------+--------------------+--------------------+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+TGO 015214-5   0635924 ARTECOLA QUIMICA S.A TXS TRANSPORTES L .. ANTONIO ALVES DE SOU PA PARAUAPEBAS   05/02/25     2                            X                                                  
+CEN 337690-7   0039967 BODIPASA BOMBAS DIES BODIPASA BOMBAS D .. DANIEL DE MARIA RODR PA SANTANA DO AR 05/02/25     2                            X                                                  
+TG2 015021-5   0301079 CIENTIFICA MEDICA HO CIENTIFICA MEDICA .. ISSAA-INSTITUTO DE S PA MARABA        29/01/25            2                                     X                                  
+CEN 337577-3   0120765 CIMED REMEDIOS       CIMED REMEDIOS    .. 0000277127ARL MEDICA PA ITUPIRANGA    05/02/25     2                            X                                                  
+CEN 337563-3   0120720 CIMED REMEDIOS       CIMED REMEDIOS    .. 0000258968-FCIA DROG PA MARABA        04/02/25     1                                X                                              
+CEN 337570-6   0120760 CIMED REMEDIOS       CIMED REMEDIOS    .. DROGASHOP FARMACIA E PA MARABA        04/02/25     1                                X                                              
+CEN 337574-9   0120702 CIMED REMEDIOS       CIMED REMEDIOS    .. X POPULAR DROGARIAS  PA SANTANA DO AR 05/02/25     2                            X                                                  
+CEN 335954-9   0120156 CIMED REMEDIOS       CIMED REMEDIOS    .. 0000276807FARMA TEM  PA SAO FELIX DO  29/01/25     1                                X                                              
+CEN 336241-8   0120261 CIMED REMEDIOS       CIMED REMEDIOS    .. ((04))DROGARIA SARA  PA SAO FELIX DO  30/01/25     1                                X                                              
+CEN 337600-1   0120679 CIMED REMEDIOS       CIMED REMEDIOS    .. 0000276805FARMA TEM  PA SAO FELIX DO  05/02/25     2                            X                                                  
+CEN 337295-2   0120653 CIMED REMEDIOS       CIMED REMEDIOS    .. M DE S ARAUJO FARMAR PA TUCUMA        04/02/25     1                                X                                              
+TNL 247794-7   0009829 D F COMERCIO ATACADI D F COMERCIO ATAC .. CAIXA ECONOMICA      PA MARABA        03/02/25                                          X                                          
+TNL 247796-3   0009833 D F COMERCIO ATACADI D F COMERCIO ATAC .. CAIXA ECONOMICA      PA MARABA        03/02/25                                          X                                          
+TNL 247799-8   0009836 D F COMERCIO ATACADI D F COMERCIO ATAC .. CAIXA ECONOMICA      PA MARABA        03/02/25                                          X                                          
+CEN 337667-2   0156202 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. K.P DE OLIVEIRA COME PA BANNACH       05/02/25     2                            X                                                  
+CEN 337644-3   0156112 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. V A MACHADO LTDA     PA CONCEICAO DO  05/02/25     2                            X                                                  
+CEN 337656-7   0156191 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. DROGARIA XAVIER LTDA PA CONCEICAO DO  05/02/25     2                            X                                                  
+CEN 337676-1   0156211 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. K C C SANTOS COMERCI PA CONCEICAO DO  05/02/25     2                            X                                                  
+CEN 337653-2   0156188 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. POTIGUAR - DM PRODUT PA FLORESTA DO A 05/02/25     2                            X                                                  
+CEN 337657-5   0156192 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. POTIGUAR - DM PRODUT PA FLORESTA DO A 05/02/25     2                            X                                                  
+CEN 335760-1   0155369 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. 0000275239M M M LIRA PA SANTA MARIA D 28/01/25            4                                             X                          
+CEN 337394-1   0156015 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. DROGARIA G FARMA LTD PA SANTA MARIA D 04/02/25     1                                X                                              
+CEN 337673-7   0156208 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. SANTANA PARA MEDICAM PA SANTANA DO AR 05/02/25     2                            X                                                  
+CEN 336729-1   0155829 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. AGRORURAL XINGU LTDA PA SAO FELIX DO  31/01/25     1                                X                                              
+CEN 337364-9   0156070 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. K P DA SILVA EAMP CI PA SAO FELIX DO  04/02/25     1                                X                                              
+CEN 337677-0   0156212 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. BIG FARMA DROGARIA L PA SAO FELIX DO  05/02/25     2                            X                                                  
+CEN 337384-3   0156016 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. L J BIESKI MEDICAMEN PA TUCUMA        04/02/25     1                                X                                              
+CEN 337645-1   0156113 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. ARAGUAIA S.A         PA XINGUARA      05/02/25     2                            X                                                  
+CEN 337646-0   0156114 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. ARAGUAIA S.A         PA XINGUARA      05/02/25     2                            X                                                  
+CEN 337648-6   0156116 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. 0000246444-SILVA FRA PA XINGUARA      05/02/25     2                            X                                                  
+CEN 337669-9   0156204 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. G E R COMERCIO DE PR PA XINGUARA      05/02/25     2                            X                                                  
+CEN 337674-5   0156209 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. G E R COMERCIO DE PR PA XINGUARA      05/02/25     2                            X                                                  
+CEN 335613-2   0051601 FRANKLIN ELECTRIC IN FRANKLIN ELECTRIC .. AGRORURAL XINGU LTDA PA SAO FELIX DO  28/01/25                                          X                                          
+CEN 334621-8   0077399 GFV VAREJO E COMERCI TRANSPORTES TRANS .. ALINE ABREU  78589   PA MARABA        22/01/25            8*                                                             X          
+TGO 014749-4   0026689 GYN ATACADO EIRELI   GYN ATACADO EIREL .. J W F VERAS  COMERCI PA SAO GERALDO D 24/01/25     2                            X                                                  
+TGO 015149-1   0058023 MED VITTA COM DE PRO MED VITTA COM DE  .. PRONTO ATENDIMENTO C PA PARAUAPEBAS   04/02/25     1                                X                                              
+TGO 015225-1   0058060 MED VITTA COM DE PRO MED VITTA COM DE  .. PRONTO ATENDIMENTO C PA PARAUAPEBAS   06/02/25     3                        X                                                      
+TNL 247803-0   0022129 MERCONORTE DISTRIBUI MERCONORTE DISTRI .. AGRONORTE COMERCIO D PA OURILANDIA DO 04/02/25     1                                X                                              
+TNL 248124-3   0022150 MERCONORTE DISTRIBUI MERCONORTE DISTRI .. A NOLETO SILVA - COM PA RIO MARIA     05/02/25     2                            X                                                  
+TNL 247448-4   0022092 MERCONORTE DISTRIBUI MERCONORTE DISTRI .. MARTINS E NASCIMENTO PA SAO FELIX DO  31/01/25     1                                X                                              
+CEN 337707-5   0138611 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. 0000122337-ANNEFARMA PA CONCEICAO DO  05/02/25     2                            X                                                  
+CEN 337725-3   0138636 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. ((04))LUCIANA DIAS D PA CONCEICAO DO  05/02/25     2                            X                                                  
+CEN 337742-3   0138666 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. 0000122337-ANNEFARMA PA CONCEICAO DO  05/02/25     2                            X                                                  
+CEN 335793-7   0137726 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. 0000257530-I A DE OL PA CUMARU DO NOR 29/01/25     1                                X                                              
+CEN 337702-4   0138590 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. ((04))VITAFARMA COME PA FLORESTA DO A 05/02/25     2                            X                                                  
+CEN 337446-7   0138515 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. 0000267806-TRIANGULO PA MARABA        03/02/25                                          X                                          
+CEN 337448-3   0138517 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. ZANOL E THOMAZ LTDA  PA MARABA        03/02/25                                          X                                          
+CEN 337449-1   0138518 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. 0000277874TRIANGULO  PA MARABA        03/02/25                                          X                                          
+CEN 337450-5   0138530 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. TRIANGULO DROGARIA L PA MARABA        03/02/25                                          X                                          
+CEN 337459-9   0138528 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. BRASIFARMA COM LTDA  PA MARABA        03/02/25                                          X                                          
+CEN 337694-0   0138563 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. DROGARIA SAO FELIX L PA MARABA        04/02/25     1                                X                                              
+CEN 337695-8   0138564 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. 0000253219-DROG TRIA PA MARABA        04/02/25     1                                X                                              
+
+TNORTE TRANSPORTE EIRELI                                                                                                                                                                    PAG:   9
+ssw0878                                                                          012 - PERFORMANCE DOS CTRCS ENTREGUES                                                                04/02/25 12:54
+                                                                                                 03/02/25
+                                                                                                                               ---------------------------------------------------------------------
+FILIAL DESTINO: MAB MARABA                                                                                                     |   NO PRAZO (DIAS UTEIS)   |         ATRASADO (DIAS UTEIS)         |
+--------------+-------+--------------------+-----------------+--+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+CTRC           NF      REMETENTE            PAGADOR/ABC          DESTINATARIO         CIDADE DESTINO   PREVENTR NOPRAZO ATRASAD|--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+--------------+-------+--------------------+--------------------+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+CEN 337696-6   0138566 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. DROGARIA SAO FELIX L PA MARABA        04/02/25     1                                X                                              
+CEN 337698-2   0138570 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. DROGASHOP FARMACIA E PA MARABA        04/02/25     1                                X                                              
+CEN 337704-1   0138608 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. 0000258968-FCIA DROG PA MARABA        04/02/25     1                                X                                              
+CEN 337711-3   0138615 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. 0000248839-TRIANGULO PA MARABA        04/02/25     1                                X                                              
+CEN 337713-0   0138618 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. 0000248839-TRIANGULO PA MARABA        04/02/25     1                                X                                              
+CEN 337738-5   0138660 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. TRIANGULO DROGARIA L PA MARABA        04/02/25     1                                X                                              
+CEN 337739-3   0138662 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. TRIANGULO DROGARIA L PA MARABA        04/02/25     1                                X                                              
+CEN 337748-2   0138679 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. TRIANGULO DROGARIA L PA MARABA        04/02/25     1                                X                                              
+CEN 337751-2   0138682 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. TRIANGULO DROGARIA L PA MARABA        04/02/25     1                                X                                              
+CEN 337418-1   0138447 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. GUILHERME E SOARES C PA OURILANDIA DO 04/02/25     1                                X                                              
+CEN 333396-5   0136661 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. BELA COMERCIO DE MED PA SANTA MARIA D 16/01/25           12                                                                     X  
+CEN 336444-5   0138066 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. 0000276807FARMA TEM  PA SAO FELIX DO  30/01/25                                          X                                          
+CEN 336773-8   0138142 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. FARMACIA DO POVO LTD PA SAO FELIX DO  31/01/25     1                                X                                              
+CEN 337402-5   0138389 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. K P DA SILVA EAMP CI PA SAO FELIX DO  04/02/25     1                                X                                              
+CEN 337403-3   0138391 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. K P DA SILVA EAMP CI PA SAO FELIX DO  04/02/25     1                                X                                              
+CEN 337436-0   0138491 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. L J BIESKI MEDICAMEN PA TUCUMA        04/02/25     1                                X                                              
+CEN 337717-2   0138624 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. 0000251305-ZANOL E T PA XINGUARA      05/02/25     2                            X                                                  
+CEN 337726-1   0138637 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. ((04))J.E.V DOS ANJO PA XINGUARA      05/02/25     2                            X                                                  
+CEN 336567-1   0018655 PMZ DISTRIBUIDORA S/ PMZ DISTRIBUIDORA C. PMZ DISTRIBUIDORA S. PA PARAUAPEBAS   30/01/25            2*                                     X                                  
+CEN 337077-1   0010601 POLI FILTRO INDUSTRI POLI FILTRO INDUS .. PROLUB PRODUTOS AUTO PA SANTANA DO AR 03/02/25     1                                X                                              
+TNL 246927-8   0000608 ROCHESTER DISTRIBUID ROCHESTER DISTRIB .. QUEIROZ MAQUINAS E P PA CUMARU DO NOR 29/01/25     1                                X                                              
+TGO 015139-4   0314074 SUPERMEDICA DISTRIBU SUPERMEDICA DISTR .. J J V ALMEIDA SERV M PA PARAUAPEBAS   04/02/25     1                                X                                              
+TGO 015145-9   0314066 SUPERMEDICA DISTRIBU SUPERMEDICA DISTR .. M MITTMANN - ME      PA PARAUAPEBAS   04/02/25     1                                X                                              
+TGO 014864-4   0115569 VIARURAL COMERCIO DE VIARURAL COMERCIO .. M. ANTONIO DE S. MOU PA CANAA DOS CAR 24/01/25     3                        X                                                      
+TGO 015193-9   0116609 VIARURAL COMERCIO DE VIARURAL COMERCIO .. 1064 - OZEIAS FERNAN PA MARABA        05/02/25     2                            X                                                  
+--------------+-------+--------------------+--------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+                                                                                                                               |--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+  CTRCS ENTREGUES POR DIA UTIL ADIANTADO/ATRASADO - TOTAL     77 CTRCS                                                                           27      10       2       1               1       1
+                                                                                                                     72       5               2      33                                        
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+  PERCENTUAL POR DIA UTIL ADIANTADO/ATRASADO - TOTAL 100%                                                            94       6               3  35  43  13       3       1               1       1
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+* -  Indica Atraso por culpa do cliente.
+
+                                                                                    R E S U M O
+
+                                          QTD CTRCS ENTREGUES NO PRAZO                               QTD CTRCS ENTREGUES ATRASADOS
+                                          -------------------------------------                      ------------------------------------------------------
+                                                                     RESPTRANSP                                                RESPCLIENTE       RESPTRANSP
+                                          -------------------------------------                      ------------------------------------------------------
+                                          MAIS DE 05 DIAS ADIANTADO                                  DE 01 A 02 DIAS ATRASADOS           1                1
+                                          DE 03 A 05 DIAS ADIANTADO           2                      DE 03 A 05 DIAS ATRASADOS                            1
+                                          DE 01 A 02 DIAS ADIANTADO          60                      DE 06 A 09 DIAS ATRASADOS           1                 
+                                          00 NO DIA                          10                      MAIS DE 09 DIAS ATRASADOS                            1
+                                          -------------------------------------                      ------------------------------------------------------
+                                          TOTAL                 QTD          72                      TOTAL                 QTD           2                3
+                                                                  %          94                                              %           3                4
+                                          -------------------------------------                      ------------------------------------------------------
+
+
+TNORTE TRANSPORTE EIRELI                                                                                                                                                                    PAG:  10
+ssw0878                                                                          012 - PERFORMANCE DOS CTRCS ENTREGUES                                                                04/02/25 12:54
+                                                                                                 03/02/25
+                                                                                                                               ---------------------------------------------------------------------
+FILIAL DESTINO: MEL MADRI EXPRESS LOGISTICA                                                                                    |   NO PRAZO (DIAS UTEIS)   |         ATRASADO (DIAS UTEIS)         |
+--------------+-------+--------------------+-----------------+--+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+CTRC           NF      REMETENTE            PAGADOR/ABC          DESTINATARIO         CIDADE DESTINO   PREVENTR NOPRAZO ATRASAD|--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+--------------+-------+--------------------+--------------------+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+CEN 337440-8   0138506 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. FARMACIA UNIVERSO LT PA RONDON DO PAR 03/02/25                                          X                                          
+CEN 337747-4   0138678 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. T DE AQUINO SOUZA LI PA RONDON DO PAR 04/02/25     1                                X                                              
+CEN 337750-4   0138681 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. T DE AQUINO SOUZA LI PA RONDON DO PAR 04/02/25     1                                X                                              
+--------------+-------+--------------------+--------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+                                                                                                                               |--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+  CTRCS ENTREGUES POR DIA UTIL ADIANTADO/ATRASADO - TOTAL      3 CTRCS                                                                                    1                                        
+                                                                                                                      3                               2                                        
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+  PERCENTUAL POR DIA UTIL ADIANTADO/ATRASADO - TOTAL 100%                                                           100                              67  33                                        
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+* -  Indica Atraso por culpa do cliente.
+
+                                                                                    R E S U M O
+
+                                          QTD CTRCS ENTREGUES NO PRAZO                               QTD CTRCS ENTREGUES ATRASADOS
+                                          -------------------------------------                      ------------------------------------------------------
+                                                                     RESPTRANSP                                                RESPCLIENTE       RESPTRANSP
+                                          -------------------------------------                      ------------------------------------------------------
+                                          MAIS DE 05 DIAS ADIANTADO                                  DE 01 A 02 DIAS ATRASADOS                             
+                                          DE 03 A 05 DIAS ADIANTADO                                  DE 03 A 05 DIAS ATRASADOS                             
+                                          DE 01 A 02 DIAS ADIANTADO           2                      DE 06 A 09 DIAS ATRASADOS                             
+                                          00 NO DIA                           1                      MAIS DE 09 DIAS ATRASADOS                             
+                                          -------------------------------------                      ------------------------------------------------------
+                                          TOTAL                 QTD           3                      TOTAL                 QTD                             
+                                                                  %         100                                              %                             
+                                          -------------------------------------                      ------------------------------------------------------
+
+
+TNORTE TRANSPORTE EIRELI                                                                                                                                                                    PAG:  11
+ssw0878                                                                          012 - PERFORMANCE DOS CTRCS ENTREGUES                                                                04/02/25 12:54
+                                                                                                 03/02/25
+                                                                                                                               ---------------------------------------------------------------------
+FILIAL DESTINO: MEM M A BARBOSA TRANSPORTES                                                                                    |   NO PRAZO (DIAS UTEIS)   |         ATRASADO (DIAS UTEIS)         |
+--------------+-------+--------------------+-----------------+--+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+CTRC           NF      REMETENTE            PAGADOR/ABC          DESTINATARIO         CIDADE DESTINO   PREVENTR NOPRAZO ATRASAD|--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+--------------+-------+--------------------+--------------------+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+CEN 337028-3   0155856 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. LINDOLFO E PEREIRA L PA BREJO GRANDE  01/02/25                                          X                                          
+CEN 337060-7   0155967 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. F.V.DINIZ CIA LTDA   PA SAO DOMINGOS  31/01/25                                          X                                          
+CEN 337061-5   0155968 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. GISENILDA D SILVA SA PA SAO DOMINGOS  31/01/25                                          X                                          
+CEN 337074-7   0155981 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. F.V.DINIZ CIA LTDA   PA SAO DOMINGOS  31/01/25                                          X                                          
+--------------+-------+--------------------+--------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+                                                                                                                               |--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+  CTRCS ENTREGUES POR DIA UTIL ADIANTADO/ATRASADO - TOTAL      4 CTRCS                                                                                    4                                        
+                                                                                                                      4                                                                        
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+  PERCENTUAL POR DIA UTIL ADIANTADO/ATRASADO - TOTAL 100%                                                           100                                 100                                        
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+* -  Indica Atraso por culpa do cliente.
+
+                                                                                    R E S U M O
+
+                                          QTD CTRCS ENTREGUES NO PRAZO                               QTD CTRCS ENTREGUES ATRASADOS
+                                          -------------------------------------                      ------------------------------------------------------
+                                                                     RESPTRANSP                                                RESPCLIENTE       RESPTRANSP
+                                          -------------------------------------                      ------------------------------------------------------
+                                          MAIS DE 05 DIAS ADIANTADO                                  DE 01 A 02 DIAS ATRASADOS                             
+                                          DE 03 A 05 DIAS ADIANTADO                                  DE 03 A 05 DIAS ATRASADOS                             
+                                          DE 01 A 02 DIAS ADIANTADO                                  DE 06 A 09 DIAS ATRASADOS                             
+                                          00 NO DIA                           4                      MAIS DE 09 DIAS ATRASADOS                             
+                                          -------------------------------------                      ------------------------------------------------------
+                                          TOTAL                 QTD           4                      TOTAL                 QTD                             
+                                                                  %         100                                              %                             
+                                          -------------------------------------                      ------------------------------------------------------
+
+
+TNORTE TRANSPORTE EIRELI                                                                                                                                                                    PAG:  12
+ssw0878                                                                          012 - PERFORMANCE DOS CTRCS ENTREGUES                                                                04/02/25 12:54
+                                                                                                 03/02/25
+                                                                                                                               ---------------------------------------------------------------------
+FILIAL DESTINO: NIL EVANILDO DE ANDRADE INGLES                                                                                 |   NO PRAZO (DIAS UTEIS)   |         ATRASADO (DIAS UTEIS)         |
+--------------+-------+--------------------+-----------------+--+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+CTRC           NF      REMETENTE            PAGADOR/ABC          DESTINATARIO         CIDADE DESTINO   PREVENTR NOPRAZO ATRASAD|--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+--------------+-------+--------------------+--------------------+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+TNL 248127-8   0000691 ROCHESTER DISTRIBUID ROCHESTER DISTRIB .. AUTO PECAS MOURA LTD PA TOME-ACU      04/02/25     1                                X                                              
+--------------+-------+--------------------+--------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+                                                                                                                               |--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+  CTRCS ENTREGUES POR DIA UTIL ADIANTADO/ATRASADO - TOTAL      1 CTRCS                                                                                                                             
+                                                                                                                      1                               1                                        
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+  PERCENTUAL POR DIA UTIL ADIANTADO/ATRASADO - TOTAL 100%                                                           100                             100                                            
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+* -  Indica Atraso por culpa do cliente.
+
+                                                                                    R E S U M O
+
+                                          QTD CTRCS ENTREGUES NO PRAZO                               QTD CTRCS ENTREGUES ATRASADOS
+                                          -------------------------------------                      ------------------------------------------------------
+                                                                     RESPTRANSP                                                RESPCLIENTE       RESPTRANSP
+                                          -------------------------------------                      ------------------------------------------------------
+                                          MAIS DE 05 DIAS ADIANTADO                                  DE 01 A 02 DIAS ATRASADOS                             
+                                          DE 03 A 05 DIAS ADIANTADO                                  DE 03 A 05 DIAS ATRASADOS                             
+                                          DE 01 A 02 DIAS ADIANTADO           1                      DE 06 A 09 DIAS ATRASADOS                             
+                                          00 NO DIA                                                  MAIS DE 09 DIAS ATRASADOS                             
+                                          -------------------------------------                      ------------------------------------------------------
+                                          TOTAL                 QTD           1                      TOTAL                 QTD                             
+                                                                  %         100                                              %                             
+                                          -------------------------------------                      ------------------------------------------------------
+
+
+TNORTE TRANSPORTE EIRELI                                                                                                                                                                    PAG:  13
+ssw0878                                                                          012 - PERFORMANCE DOS CTRCS ENTREGUES                                                                04/02/25 12:54
+                                                                                                 03/02/25
+                                                                                                                               ---------------------------------------------------------------------
+FILIAL DESTINO: NIS NAVEGACAO IRMAOS SANTANA                                                                                   |   NO PRAZO (DIAS UTEIS)   |         ATRASADO (DIAS UTEIS)         |
+--------------+-------+--------------------+-----------------+--+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+CTRC           NF      REMETENTE            PAGADOR/ABC          DESTINATARIO         CIDADE DESTINO   PREVENTR NOPRAZO ATRASAD|--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+--------------+-------+--------------------+--------------------+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+TGO 014082-1   0000659 SPEED DISTRIBUIDORA  MASTER INDUSTRIA  .. FRANCISCO T DOS SANT AP PORTO GRANDE  22/01/25            6                                                     X                  
+--------------+-------+--------------------+--------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+                                                                                                                               |--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+  CTRCS ENTREGUES POR DIA UTIL ADIANTADO/ATRASADO - TOTAL      1 CTRCS                                                                                                            1                
+                                                                                                                              1                                                                
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+  PERCENTUAL POR DIA UTIL ADIANTADO/ATRASADO - TOTAL 100%                                                                   100                                                 100                
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+* -  Indica Atraso por culpa do cliente.
+
+                                                                                    R E S U M O
+
+                                          QTD CTRCS ENTREGUES NO PRAZO                               QTD CTRCS ENTREGUES ATRASADOS
+                                          -------------------------------------                      ------------------------------------------------------
+                                                                     RESPTRANSP                                                RESPCLIENTE       RESPTRANSP
+                                          -------------------------------------                      ------------------------------------------------------
+                                          MAIS DE 05 DIAS ADIANTADO                                  DE 01 A 02 DIAS ATRASADOS                             
+                                          DE 03 A 05 DIAS ADIANTADO                                  DE 03 A 05 DIAS ATRASADOS                             
+                                          DE 01 A 02 DIAS ADIANTADO                                  DE 06 A 09 DIAS ATRASADOS                            1
+                                          00 NO DIA                                                  MAIS DE 09 DIAS ATRASADOS                             
+                                          -------------------------------------                      ------------------------------------------------------
+                                          TOTAL                 QTD                                  TOTAL                 QTD                            1
+                                                                  %                                                          %                          100
+                                          -------------------------------------                      ------------------------------------------------------
+
+
+TNORTE TRANSPORTE EIRELI                                                                                                                                                                    PAG:  14
+ssw0878                                                                          012 - PERFORMANCE DOS CTRCS ENTREGUES                                                                04/02/25 12:54
+                                                                                                 03/02/25
+                                                                                                                               ---------------------------------------------------------------------
+FILIAL DESTINO: NPL NORTE PARA TRANSPORTE E LOG                                                                                |   NO PRAZO (DIAS UTEIS)   |         ATRASADO (DIAS UTEIS)         |
+--------------+-------+--------------------+-----------------+--+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+CTRC           NF      REMETENTE            PAGADOR/ABC          DESTINATARIO         CIDADE DESTINO   PREVENTR NOPRAZO ATRASAD|--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+--------------+-------+--------------------+--------------------+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+TGO 014247-6   0310961 BELLA JANELA INDUSTR FAST LOGISTICA E  .. IRMAOS FERREIRA MAT  PA MONTE ALEGRE  11/01/25           10                                                                     X  
+TGO 014253-1   0315358 BELLA JANELA INDUSTR FAST LOGISTICA E  .. IRMAOS FERREIRA MAT  PA MONTE ALEGRE  11/01/25           10                                                                     X  
+TGO 014704-4   0240081 CAMESA INDUSTRIA TEX FAST LOGISTICA E  .. NOGUEIRA SUPERMERCAD PA RONDON DO PAR 23/01/25            7*                                                         X              
+CEN 337572-2   0120686 CIMED REMEDIOS       CIMED REMEDIOS    .. G SIQUEIRA COMERCIO  PA BOM JESUS DO  04/02/25     1                                X                                              
+CEN 337550-1   0120654 CIMED REMEDIOS       CIMED REMEDIOS    .. 1000921 - VITAFARMA  PA DOM ELISEU    04/02/25     1                                X                                              
+CEN 334022-8   0154732 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. HIPER FARMA LTDA     PA DOM ELISEU    21/01/25     1                                X                                              
+CEN 337652-4   0156187 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. FARMACIA TAVEIRA LTD PA PARAGOMINAS   04/02/25     1                                X                                              
+CEN 337638-9   0156106 F E F DISTRIBUIDORA  F E F DISTRIBUIDO .. SUPER FARMA LTDA     PA RONDON DO PAR 04/02/25     1                                X                                              
+TGO 014778-8   0006411 FENIX COMERCIO LTDA  FENIX COMERCIO LT .. R ECONOMIZAR EMPREEN PA ALENQUER      05/02/25     6            X                                                                  
+TGO 014822-9   0006439 FENIX COMERCIO LTDA  FENIX COMERCIO LT .. KAMINSKI E NASCIMENT PA ALENQUER      05/02/25     6            X                                                                  
+TGO 014776-1   0006278 FENIX COMERCIO LTDA  FENIX COMERCIO LT .. 2032-F A NEMER       PA MONTE ALEGRE  05/02/25     7            X                                                                  
+TGO 014825-3   0006281 FENIX COMERCIO LTDA  FENIX COMERCIO LT .. LAZZARETTI E LAZZARE PA MONTE ALEGRE  05/02/25     7            X                                                                  
+TGO 014898-9   0015300 JA REPRESENTACOES PL JA REPRESENTACOES .. 474128-E T DA ROSA L PA ITAITUBA      05/02/25     3                        X                                                      
+TGO 015091-6   0143895 KILLING S.A TINTAS E TXS TRANSPORTES L .. LUZZO MOVEIS LTDA    PA PARAGOMINAS   04/02/25     1                                X                                              
+CEN 337700-8   0138583 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. MASTER FARMA COMERCI PA DOM ELISEU    04/02/25     1                                X                                              
+CEN 337731-8   0138642 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. 0000272142-M S COM V PA DOM ELISEU    04/02/25     1                                X                                              
+CEN 337733-4   0138644 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. 0000272142-M S COM V PA DOM ELISEU    04/02/25     1                                X                                              
+CEN 337796-2   0138579 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. MASTER FARMA COMERCI PA DOM ELISEU    04/02/25     1                                X                                              
+CEN 337411-4   0138428 NDS DISTRIBUIDORA DE NDS DISTRIBUIDORA .. 0000257833-ARLEY C D PA IPIXUNA DO PA 31/01/25                                          X                                          
+TNL 247952-4   0001721 R H FRANCO LTDA (AMA R H FRANCO LTDA  ..  MERCEARIA CAPIXABA / PA PARAGOMINAS   31/01/25                                          X                                          
+TGO 014856-3   0027475 SIDONE INDUSTRIA E C TECLOG TRANSPORTE .. SENDAS DISTRIBUIDORA PA SANTAREM      03/02/25                                          X                                          
+TGO 014884-9   0115689 VIARURAL COMERCIO DE VIARURAL COMERCIO .. T R FERNANDES        PA ALENQUER      05/02/25     6            X                                                                  
+TGO 014968-3   0116023 VIARURAL COMERCIO DE VIARURAL COMERCIO .. ADMILCA ROBSON DE OL PA MONTE ALEGRE  08/02/25     4                    X                                                          
+--------------+-------+--------------------+--------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+                                                                                                                               |--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+  CTRCS ENTREGUES POR DIA UTIL ADIANTADO/ATRASADO - TOTAL     23 CTRCS                                                            5       1               3                                       2
+                                                                                                                     20       3               1      10                               1        
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+  PERCENTUAL POR DIA UTIL ADIANTADO/ATRASADO - TOTAL 100%                                                            87      13  22       4   4      43  13                           4           9
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+* -  Indica Atraso por culpa do cliente.
+
+                                                                                    R E S U M O
+
+                                          QTD CTRCS ENTREGUES NO PRAZO                               QTD CTRCS ENTREGUES ATRASADOS
+                                          -------------------------------------                      ------------------------------------------------------
+                                                                     RESPTRANSP                                                RESPCLIENTE       RESPTRANSP
+                                          -------------------------------------                      ------------------------------------------------------
+                                          MAIS DE 05 DIAS ADIANTADO           5                      DE 01 A 02 DIAS ATRASADOS                             
+                                          DE 03 A 05 DIAS ADIANTADO           2                      DE 03 A 05 DIAS ATRASADOS                             
+                                          DE 01 A 02 DIAS ADIANTADO          10                      DE 06 A 09 DIAS ATRASADOS           1                 
+                                          00 NO DIA                           3                      MAIS DE 09 DIAS ATRASADOS                            2
+                                          -------------------------------------                      ------------------------------------------------------
+                                          TOTAL                 QTD          20                      TOTAL                 QTD           1                2
+                                                                  %          87                                              %           4                9
+                                          -------------------------------------                      ------------------------------------------------------
+
+
+TNORTE TRANSPORTE EIRELI                                                                                                                                                                    PAG:  15
+ssw0878                                                                          012 - PERFORMANCE DOS CTRCS ENTREGUES                                                                04/02/25 12:54
+                                                                                                 03/02/25
+                                                                                                                               ---------------------------------------------------------------------
+FILIAL DESTINO: NST NORTE PARA FILIAL - SANTAREM                                                                               |   NO PRAZO (DIAS UTEIS)   |         ATRASADO (DIAS UTEIS)         |
+--------------+-------+--------------------+-----------------+--+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+CTRC           NF      REMETENTE            PAGADOR/ABC          DESTINATARIO         CIDADE DESTINO   PREVENTR NOPRAZO ATRASAD|--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+--------------+-------+--------------------+--------------------+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+TNL 247863-3   0002341 BATEL COMERCIO DE AL BATEL COMERCIO DE .. DROGARIAS ULTRA POPU PA SANTAREM      05/02/25     2                            X                                                  
+TNL 247864-1   0002347 BATEL COMERCIO DE AL BATEL COMERCIO DE .. DROGARIAS ULTRA POPU PA SANTAREM      05/02/25     2                            X                                                  
+CEN 337302-9   0051712 FRANKLIN ELECTRIC IN FRANKLIN ELECTRIC .. SUPERCOMAM MAQUINAS  PA SANTAREM      05/02/25     2                            X                                                  
+TGO 015103-3   0000895 MEGA COMERCIAL E AMB SIGMA LOG TRANSPO .. UNIV FEDERAL DO OEST PA SANTAREM      08/02/25     4                    X                                                          
+--------------+-------+--------------------+--------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+                                                                                                                               |--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+  CTRCS ENTREGUES POR DIA UTIL ADIANTADO/ATRASADO - TOTAL      4 CTRCS                                                                    1       3                                                
+                                                                                                                      4                                                                        
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+  PERCENTUAL POR DIA UTIL ADIANTADO/ATRASADO - TOTAL 100%                                                           100                  25      75                                                
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+* -  Indica Atraso por culpa do cliente.
+
+                                                                                    R E S U M O
+
+                                          QTD CTRCS ENTREGUES NO PRAZO                               QTD CTRCS ENTREGUES ATRASADOS
+                                          -------------------------------------                      ------------------------------------------------------
+                                                                     RESPTRANSP                                                RESPCLIENTE       RESPTRANSP
+                                          -------------------------------------                      ------------------------------------------------------
+                                          MAIS DE 05 DIAS ADIANTADO                                  DE 01 A 02 DIAS ATRASADOS                             
+                                          DE 03 A 05 DIAS ADIANTADO           1                      DE 03 A 05 DIAS ATRASADOS                             
+                                          DE 01 A 02 DIAS ADIANTADO           3                      DE 06 A 09 DIAS ATRASADOS                             
+                                          00 NO DIA                                                  MAIS DE 09 DIAS ATRASADOS                             
+                                          -------------------------------------                      ------------------------------------------------------
+                                          TOTAL                 QTD           4                      TOTAL                 QTD                             
+                                                                  %         100                                              %                             
+                                          -------------------------------------                      ------------------------------------------------------
+
+
+TNORTE TRANSPORTE EIRELI                                                                                                                                                                    PAG:  16
+ssw0878                                                                          012 - PERFORMANCE DOS CTRCS ENTREGUES                                                                04/02/25 12:54
+                                                                                                 03/02/25
+                                                                                                                               ---------------------------------------------------------------------
+FILIAL DESTINO: SPN SP NUNES COM.SERV.TRANSPORTE                                                                               |   NO PRAZO (DIAS UTEIS)   |         ATRASADO (DIAS UTEIS)         |
+--------------+-------+--------------------+-----------------+--+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+CTRC           NF      REMETENTE            PAGADOR/ABC          DESTINATARIO         CIDADE DESTINO   PREVENTR NOPRAZO ATRASAD|--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+--------------+-------+--------------------+--------------------+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+CEN 334601-3   0011434 AUTOMATECH SISTEMAS  TRANSPORTES TRANS .. BEHNCK DISTRIBUICAO  RR RORAINOPOLIS  10/03/25    24            X                                                                  
+TNL 246268-1   0040728 EBARA BOMBAS AMERICA EBARA BOMBAS AMER .. L M SGUARIO E SILVA  RR BOA VISTA     11/02/25     6            X                                                                  
+CEN 333979-3   0051445 FRANKLIN ELECTRIC IN FRANKLIN ELECTRIC .. MENDONCA E OLIVEIRA  RR BOA VISTA     19/02/25    12            X                                                                  
+TNL 246025-4   0002184 ONCOLOGICA DO BRASIL ONCOLOGICA DO BRA B. ONCOLOGICA DO BRASIL RR BOA VISTA     10/02/25     5                X                                                              
+TG2 014611-1   0133780 VINILTEC INDUSTRIA D VINILTEC INDUSTRI .. JOAO PAULO REIS      RR BOA VISTA     05/02/25     2                            X                                                  
+--------------+-------+--------------------+--------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+                                                                                                                               |--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+  CTRCS ENTREGUES POR DIA UTIL ADIANTADO/ATRASADO - TOTAL      5 CTRCS                                                            3               1                                                
+                                                                                                                      5               1                                                        
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+  PERCENTUAL POR DIA UTIL ADIANTADO/ATRASADO - TOTAL 100%                                                           100          60  20          20                                                
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+* -  Indica Atraso por culpa do cliente.
+
+                                                                                    R E S U M O
+
+                                          QTD CTRCS ENTREGUES NO PRAZO                               QTD CTRCS ENTREGUES ATRASADOS
+                                          -------------------------------------                      ------------------------------------------------------
+                                                                     RESPTRANSP                                                RESPCLIENTE       RESPTRANSP
+                                          -------------------------------------                      ------------------------------------------------------
+                                          MAIS DE 05 DIAS ADIANTADO           3                      DE 01 A 02 DIAS ATRASADOS                             
+                                          DE 03 A 05 DIAS ADIANTADO           1                      DE 03 A 05 DIAS ATRASADOS                             
+                                          DE 01 A 02 DIAS ADIANTADO           1                      DE 06 A 09 DIAS ATRASADOS                             
+                                          00 NO DIA                                                  MAIS DE 09 DIAS ATRASADOS                             
+                                          -------------------------------------                      ------------------------------------------------------
+                                          TOTAL                 QTD           5                      TOTAL                 QTD                             
+                                                                  %         100                                              %                             
+                                          -------------------------------------                      ------------------------------------------------------
+
+
+TNORTE TRANSPORTE EIRELI                                                                                                                                                                    PAG:  17
+ssw0878                                                                          012 - PERFORMANCE DOS CTRCS ENTREGUES                                                                04/02/25 12:54
+                                                                                                 03/02/25
+                                                                                                                               ---------------------------------------------------------------------
+FILIAL DESTINO: TGO TNORTE LOGISTICA E CARGAS LTDA                                                                             |   NO PRAZO (DIAS UTEIS)   |         ATRASADO (DIAS UTEIS)         |
+--------------+-------+--------------------+-----------------+--+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+CTRC           NF      REMETENTE            PAGADOR/ABC          DESTINATARIO         CIDADE DESTINO   PREVENTR NOPRAZO ATRASAD|--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+--------------+-------+--------------------+--------------------+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+CEN 337396-7   0077347 MOACIR CERQUEIRA DA  TRANSPORTES TRANS .. GFV VAREJO E COMERCI GO APARECIDA DE  11/02/25     6            X                                                                  
+CEN 337395-9   0000023 PAVIMIX PAVIMENTACAO TRANSPORTES TRANS .. DMP EQUIPAMENTOS LTD GO APARECIDA DE  11/02/25     6            X                                                                  
+CEN 337397-5   0709068 RENAN ABDUCH         TRANSPORTES TRANS B. TRANSPORTES TRANSLOV GO APARECIDA DE  11/02/25     6            X                                                                  
+TGO 014770-2   0265108 TOTAL LOGISTICA FARM FORTLIFE DISTRIB. B2 FORTLIFE DISTRIB. DE GO GOIANIA       07/02/25     4                    X                                                          
+--------------+-------+--------------------+--------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+                                                                                                                               |--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+  CTRCS ENTREGUES POR DIA UTIL ADIANTADO/ATRASADO - TOTAL      4 CTRCS                                                            3       1                                                        
+                                                                                                                      4                                                                        
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+  PERCENTUAL POR DIA UTIL ADIANTADO/ATRASADO - TOTAL 100%                                                           100          75      25                                                        
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+* -  Indica Atraso por culpa do cliente.
+
+                                                                                    R E S U M O
+
+                                          QTD CTRCS ENTREGUES NO PRAZO                               QTD CTRCS ENTREGUES ATRASADOS
+                                          -------------------------------------                      ------------------------------------------------------
+                                                                     RESPTRANSP                                                RESPCLIENTE       RESPTRANSP
+                                          -------------------------------------                      ------------------------------------------------------
+                                          MAIS DE 05 DIAS ADIANTADO           3                      DE 01 A 02 DIAS ATRASADOS                             
+                                          DE 03 A 05 DIAS ADIANTADO           1                      DE 03 A 05 DIAS ATRASADOS                             
+                                          DE 01 A 02 DIAS ADIANTADO                                  DE 06 A 09 DIAS ATRASADOS                             
+                                          00 NO DIA                                                  MAIS DE 09 DIAS ATRASADOS                             
+                                          -------------------------------------                      ------------------------------------------------------
+                                          TOTAL                 QTD           4                      TOTAL                 QTD                             
+                                                                  %         100                                              %                             
+                                          -------------------------------------                      ------------------------------------------------------
+
+
+TNORTE TRANSPORTE EIRELI                                                                                                                                                                    PAG:  18
+ssw0878                                                                          012 - PERFORMANCE DOS CTRCS ENTREGUES                                                                04/02/25 12:54
+                                                                                                 03/02/25
+                                                                                                                               ---------------------------------------------------------------------
+FILIAL DESTINO: TOP TOP LOGISTICA - JBQ LOGISTICA                                                                              |   NO PRAZO (DIAS UTEIS)   |         ATRASADO (DIAS UTEIS)         |
+--------------+-------+--------------------+-----------------+--+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+CTRC           NF      REMETENTE            PAGADOR/ABC          DESTINATARIO         CIDADE DESTINO   PREVENTR NOPRAZO ATRASAD|--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+--------------+-------+--------------------+--------------------+--------------------+----------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+TNL 247806-4   0040978 EBARA BOMBAS AMERICA EBARA BOMBAS AMER .. E. FONTENELE DE BRIT TO ARAGUAINA     05/02/25     2                            X                                                  
+TNL 247808-1   0040966 EBARA BOMBAS AMERICA EBARA BOMBAS AMER .. R. R. NEVES E CIA. L TO ARAGUAINA     05/02/25     2                            X                                                  
+--------------+-------+--------------------+--------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+                                                                                                                               |--  -5  -4  -3  -2  -1   0 |+1  +2  +3  +4  +5  +6  +7  +8  +9  ++ |
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+  CTRCS ENTREGUES POR DIA UTIL ADIANTADO/ATRASADO - TOTAL      2 CTRCS                                                                            2                                                
+                                                                                                                      2                                                                        
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+  PERCENTUAL POR DIA UTIL ADIANTADO/ATRASADO - TOTAL 100%                                                           100                         100                                                
+----------------------------------------------------------------+--------------------+--+-------------+--------+-------+-------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+* -  Indica Atraso por culpa do cliente.
+
+                                                                                    R E S U M O
+
+                                          QTD CTRCS ENTREGUES NO PRAZO                               QTD CTRCS ENTREGUES ATRASADOS
+                                          -------------------------------------                      ------------------------------------------------------
+                                                                     RESPTRANSP                                                RESPCLIENTE       RESPTRANSP
+                                          -------------------------------------                      ------------------------------------------------------
+                                          MAIS DE 05 DIAS ADIANTADO                                  DE 01 A 02 DIAS ATRASADOS                             
+                                          DE 03 A 05 DIAS ADIANTADO                                  DE 03 A 05 DIAS ATRASADOS                             
+                                          DE 01 A 02 DIAS ADIANTADO           2                      DE 06 A 09 DIAS ATRASADOS                             
+                                          00 NO DIA                                                  MAIS DE 09 DIAS ATRASADOS                             
+                                          -------------------------------------                      ------------------------------------------------------
+                                          TOTAL                 QTD           2                      TOTAL                 QTD                             
+                                                                  %         100                                              %                             
+                                          -------------------------------------                      ------------------------------------------------------
+
+TNORTE TRANSPORTE EIRELI                                                                                                                                                                    PAG:  18
+ssw0878                                                                          012 - PERFORMANCE DOS CTRCS ENTREGUES                                                                04/02/25 12:54
+                                                                                                   03/02/25
+TODAS AS UNIDADES DESTINO
+    +-----------------------------------------+-----------------------------------------------------------+
+                         |          NO PRAZO (DIAS UTEIS)          |                 ATRASADO (DIAS UTEIS)                     |
+----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+    ---------------+----------------+-----------------
+UNI |   --    -5    -4    -3    -2    -1     0    +1    +2    +3    +4    +5    +6    +7    +8    +9    ++        NO PRAZO   %     ATRASADO   %         TOTAL   %
+----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+    ---------------+----------------+-----------------
+BOJ                  1           4     1     1                       1                                                   7  88            1  13            8  100
+CEN                              5    76    46     6    13     3     3                                                 127  84           25  16          152  100
+EDN                                    3     1                                                                           4 100                             4  100
+JSP                        1          11                                                                                12 100                            12  100
+MAB                        2    27    33    10           2           1                       1           1              72  94            5   6           77  100
+MEL                                    2     1                                                                           3 100                             3  100
+MEM                                          4                                                                           4 100                             4  100
+NIL                                    1                                                                                 1 100                             1  100
+NIS                                                                              1                                                        1 100            1  100
+NPL      5           1     1          10     3                                         1                 2              20  87            3  13           23  100
+NST                  1           3                                                                                       4 100                             4  100
+SPN      3     1                 1                                                                                       5 100                             5  100
+TGO      3           1                                                                                                   4 100                             4  100
+TOP                              2                                                                                       2 100                             2  100
+----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+    ---------------+----------------+-----------------
+TOT     11     1     4     4    42   137    66     6    15     3     5           1     1     1           3             265               35              300
+  %      4           1     1    14    46    22     2     5     1     2                                   1                  88               12               100
+----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+    ---------------+----------------+-----------------
+* -  Indica Atraso por culpa do cliente.
+
+                                                                                    R E S U M O
+
+                                          QTD CTRCS ENTREGUES NO PRAZO                              QTD CTRCS ENTREGUES ATRASADOS
+                                          -------------------------------------                     ------------------------------------------------------
+                                                                     RESPTRANSP                                               RESPCLIENTE       RESPTRANSP
+                                          -------------------------------------                     ------------------------------------------------------
+                                          MAIS DE 05 DIAS ADIANTADO          11                     DE 01 A 02 DIAS ATRASADOS          14                7
+                                          DE 03 A 05 DIAS ADIANTADO           9                     DE 03 A 05 DIAS ATRASADOS           5                3
+                                          DE 01 A 02 DIAS ADIANTADO         179                     DE 06 A 09 DIAS ATRASADOS           2                1
+                                          00 NO DIA                          66                     MAIS DE 09 DIAS ATRASADOS                            3
+                                          -------------------------------------                     ------------------------------------------------------
+                                          TOTAL                 QTD         265                     TOTAL                 QTD          21               14
+                                                                  %          88                                             %           7                5
+                                          -------------------------------------                     ------------------------------------------------------
+

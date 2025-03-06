@@ -1,0 +1,76 @@
+@echo off
+setlocal
+
+REM Variável de controle para indicar se o script foi executado com sucesso
+set executed=0
+echo [%date% %time%] Iniciando o loop de verificação de horários...
+
+:loop
+REM Obtemos a hora atual no formato HH
+for /f "tokens=1-2 delims=:" %%a in ("%time%") do (
+    set hour=%%a
+    set minute=%%b
+)
+
+REM Removemos zeros à esquerda para comparar horas corretamente
+set /a hour=%hour%
+set /a minute=%minute%
+
+REM Log de debug para verificar horário atual
+echo [%date% %time%] Hora atual: %hour%:%minute% - Executado anteriormente: %executed%
+
+REM Verifica se a hora atual é igual a qualquer um dos horários desejados e se ainda não foi executado
+if %hour%==7 if %minute%==0 if %executed%==0 goto run_script
+if %hour%==12 if %minute%==0 if %executed%==0 goto run_script
+if %hour%==18 if %minute%==0 if %executed%==0 goto run_script
+
+REM Redefine a variável executed quando o horário atual for diferente dos horários de execução
+if not %hour%==7 if not %hour%==12 if not %hour%==18 (
+    if %executed%==1 (
+        echo [%date% %time%] Redefinindo estado de execução.
+        set executed=0
+    )
+)
+
+REM Aguarda 60 segundos antes de verificar novamente
+timeout /t 60 /nobreak
+goto loop
+
+:run_script
+echo [%date% %time%] Executando o script...
+
+REM Caminho para o arquivo conda.bat, que é necessário para ativar ambientes no CMD
+echo [%date% %time%] Ativando o ambiente Conda...
+CALL C:\ProgramData\Miniconda3\condabin\conda.bat activate Extracao
+IF ERRORLEVEL 1 (
+    echo [%date% %time%] Erro: Não foi possível ativar o ambiente Conda.
+    goto mark_executed
+)
+
+REM Muda para o diretório onde o script Python está localizado
+echo [%date% %time%] Mudando para o diretório do script Python...
+cd /d C:\Users\nblbi\Desktop\bot\automacao_477
+IF ERRORLEVEL 1 (
+    echo [%date% %time%] Erro: Não foi possível mudar para o diretório especificado.
+    goto mark_executed
+)
+
+REM Executa o script Python
+echo [%date% %time%] Executando o script Python main.py...
+python main.py
+IF ERRORLEVEL 1 (
+    echo [%date% %time%] Erro: O script Python falhou ao ser executado.
+    goto mark_executed
+)
+
+REM Mensagem de sucesso
+echo [%date% %time%] Script executado com sucesso!
+
+:mark_executed
+REM Marca como executado para não repetir até o próximo horário
+set executed=1
+echo [%date% %time%] Marcando estado de execução como concluído.
+
+REM Aguarda 60 segundos antes de voltar ao loop
+timeout /t 60 /nobreak
+goto loop

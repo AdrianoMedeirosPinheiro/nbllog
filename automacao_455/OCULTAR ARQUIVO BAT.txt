@@ -1,0 +1,52 @@
+Opção 1: Usando VBScript para Ocultar a Janela do CMD
+O VBScript permite executar seu arquivo em lote sem exibir nenhuma janela. Veja como proceder:
+
+Passo 1: Criar um Script VBScript
+Abra o Bloco de Notas ou qualquer editor de texto simples.
+
+Cole o seguinte conteúdo:
+
+vbscript
+Copiar código
+Set objShell = CreateObject("Wscript.Shell")
+objShell.Run "cmd.exe /c ""C:\Users\nblbi\Desktop\bot\automacao_455\run.bat""", 0, False
+Explicação:
+
+Set objShell = CreateObject("Wscript.Shell"): Cria um objeto Shell do Windows.
+objShell.Run: Executa um programa.
+"cmd.exe /c ""C:\Users\nblbi\Desktop\bot\automacao_455\run.bat""": Especifica o comando para executar seu arquivo em lote.
+O primeiro 0 indica que a janela será oculta.
+False indica que o script não aguardará o processo terminar (use True se quiser que ele aguarde).
+Salve o arquivo como ocultar_run.vbs no mesmo diretório do seu run.bat ou em outro local de sua preferência.
+
+Certifique-se de que a extensão seja .vbs e não .txt.
+Por exemplo: C:\Users\nblbi\Desktop\bot\automacao_455\ocultar_run.vbs
+Passo 2: Configurar o Agendador de Tarefas
+Abra o Agendador de Tarefas no Windows.
+
+Crie uma nova tarefa ou edite a tarefa existente que executa o run.bat.
+
+Na guia "Geral":
+
+Nome da Tarefa: Defina um nome descritivo para a tarefa.
+Marque a opção "Executar com os privilégios mais altos".
+Desmarque a opção "Oculto", pois o VBScript já ocultará a janela.
+Na guia "Ações":
+
+Clique em "Novo..." para adicionar uma nova ação.
+
+Programa/script: wscript.exe
+
+Adicionar argumentos (opcional): "C:\Users\nblbi\Desktop\bot\automacao_455\ocultar_run.vbs"
+
+Observação:
+
+Use aspas duplas em torno do caminho completo do script VBScript, especialmente se houver espaços no caminho.
+Configure as outras guias conforme necessário, como "Triggers" (Disparadores), "Conditions" (Condições) e "Settings" (Configurações).
+
+Salve a tarefa.
+
+Passo 3: Testar a Tarefa
+No Agendador de Tarefas, selecione a tarefa criada.
+Clique em "Executar" no painel "Ações" à direita.
+Verifique se o script run.bat está sendo executado sem que a janela do CMD apareça.

@@ -1,0 +1,213 @@
+Base de Dados do Azure para PostgreSQL - Servidor Flexível
+
+Código:
+
+<#
+.SYNOPSIS
+ Script para iniciar ou parar servidores PostgreSQL Flexíveis no Azure.
+.DESCRIPTION
+ Este script tem como objetivo iniciar ou parar servidores PostgreSQL Flexíveis no Azure usando o módulo Az do PowerShell.
+ O script utiliza a Identidade Gerenciada do Azure Automation para autenticar e gerenciar os servidores.
+    
+ Requisitos:
+ Atribua à Identidade Gerenciada do Azure Automation as permissões necessárias para Iniciar/Parar servidores PostgreSQL no grupo de recursos.
+ Você pode criar um papel personalizado com as permissões:
+   - Microsoft.DBforPostgreSQL/flexibleServers/start/action
+   - Microsoft.DBforPostgreSQL/flexibleServers/stop/action
+   - Microsoft.DBforPostgreSQL/flexibleServers/read
+
+.NOTES
+  Versão:        1.0.1
+  Autor:         Seu Nome
+  Data de Criação: 2024-11-29
+  GitHub:         https://github.com/seu-repositorio
+  Licença:        MIT License
+
+.LINK 
+  https://link-para-seu-repositorio
+
+.INPUTS
+    Nenhum
+
+.OUTPUTS
+    String para determinar o resultado do script
+
+.PARAMETER UserAssignedIdentityClientId
+Especifique o ID do Cliente da Identidade Gerenciada, se aplicável.
+
+.PARAMETER ServerName
+Especifique o nome do servidor PostgreSQL, ou use "*" para afetar todos os servidores no grupo de recursos.
+
+.PARAMETER ResourceGroupName
+Especifica o nome do grupo de recursos que contém o(s) servidor(es) PostgreSQL.
+
+.PARAMETER AzureSubscriptionID
+Opcionalmente, especifique o ID da Assinatura do Azure.
+
+.PARAMETER Action
+Especifique a ação desejada, valores permitidos "Start" ou "Stop".
+
+#>
+
+[CmdletBinding()]
+param(
+    [Parameter(Mandatory = $false, HelpMessage = "Especifique o ID do Cliente da Identidade Gerenciada, se aplicável.")]
+    [string]
+    $UserAssignedIdentityClientId,
+
+    [Parameter(Mandatory = $true, HelpMessage = "Especifique o nome do servidor PostgreSQL ou '*' para todos os servidores no grupo de recursos.")]
+    [string]
+    $ServerName,
+
+    [Parameter(Mandatory = $true, HelpMessage = "Especifique o nome do grupo de recursos contendo o(s) servidor(es).")]
+    [string]
+    $ResourceGroupName,
+
+    [Parameter(Mandatory = $false, HelpMessage = "Opcionalmente, especifique o ID da Assinatura do Azure.")]
+    [string]
+    $AzureSubscriptionID,
+
+    [Parameter(Mandatory = $true, HelpMessage = "Especifique 'Start' ou 'Stop' para controlar o(s) servidor(es).")]
+    [ValidateSet("Start", "Stop")]
+    [string]
+    $Action
+)
+
+Write-Output "Script iniciado em $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
+
+$WarningPreference = "SilentlyContinue"
+Import-Module Az.Accounts, Az.PostgreSql
+$WarningPreference = "Continue"
+
+$errorCount = 0
+
+# Conectar ao Azure
+try {
+    if ($UserAssignedIdentityClientId) {
+        Write-Output "Tentando conectar ao Azure com Identidade Gerenciada do usuário, ID: $UserAssignedIdentityClientId"
+        $null = Connect-AzAccount -Identity -AccountId $UserAssignedIdentityClientId
+    } else {
+        Write-Output "Tentando conectar ao Azure com Identidade Gerenciada do sistema..."
+        $null = Connect-AzAccount -Identity
+    }
+}
+catch {
+    $ErrorMessage = "Erro ao conectar ao Azure: " + $_.Exception.message
+    Write-Error $ErrorMessage
+    throw $ErrorMessage
+    exit
+}
+
+# Selecionar assinatura se necessário
+if ($AzureSubscriptionID) {
+    try {
+        $null = Select-AzSubscription -SubscriptionID $AzureSubscriptionID
+    }
+    catch {
+        $ErrorMessage = "Erro ao selecionar assinatura ($AzureSubscriptionID): " + $_.Exception.message
+        Write-Error $ErrorMessage
+        throw $ErrorMessage
+        exit
+    }
+}
+
+# Verificar o contexto do Azure
+try {
+    $AzContext = Get-AzContext
+}
+catch {
+    $ErrorMessage = "Erro ao obter contexto Azure: " + $_.Exception.message
+    Write-Error $ErrorMessage
+    throw $ErrorMessage
+    exit
+}
+
+# Verificar o servidor ou servidores
+if ($ServerName -eq "*") {
+    try {
+        Write-Output "Obtendo servidores PostgreSQL do grupo de recursos $ResourceGroupName..."
+        $Servers = Get-AzPostgreSqlFlexibleServer -ResourceGroupName $ResourceGroupName -ErrorAction Stop
+    }
+    catch {
+        $ErrorMessage = "Erro ao obter servidores PostgreSQL: " + $_.Exception.message
+        Write-Error $ErrorMessage
+        throw $ErrorMessage
+        exit
+    }
+} else {
+    try {
+        Write-Output "Obtendo servidor PostgreSQL $ServerName do grupo de recursos $ResourceGroupName..."
+        $Server = Get-AzPostgreSqlFlexibleServer -ResourceGroupName $ResourceGroupName -Name $ServerName -ErrorAction Stop
+    }
+    catch {
+        $ErrorMessage = "Erro ao obter servidor PostgreSQL ($ServerName): " + $_.Exception.message
+        Write-Error $ErrorMessage
+        throw $ErrorMessage
+        exit
+    }
+}
+
+# Verificar se o servidor foi encontrado e fazer a ação
+if ($ServerName -eq "*") {
+    foreach ($Server in $Servers) {
+        Write-Output "Servidor encontrado: $($Server.Name)"
+        switch ($Action) {
+            "Start" {
+                try {
+                    Write-Output "Iniciando o servidor PostgreSQL $($Server.Name)..."
+                    Start-AzPostgreSqlFlexibleServer -ResourceGroupName $ResourceGroupName -Name $Server.Name -ErrorAction Stop
+                }
+                catch {
+                    $ErrorMessage = $_.Exception.message
+                    Write-Error "Erro ao iniciar o servidor PostgreSQL $($Server.Name): $ErrorMessage"
+                    $errorCount++
+                    Break
+                }
+            }
+            "Stop" {
+                try {
+                    Write-Output "Parando o servidor PostgreSQL $($Server.Name)..."
+                    Stop-AzPostgreSqlFlexibleServer -ResourceGroupName $ResourceGroupName -Name $Server.Name -ErrorAction Stop
+                }
+                catch {
+                    $ErrorMessage = $_.Exception.message
+                    Write-Error "Erro ao parar o servidor PostgreSQL $($Server.Name): $ErrorMessage"
+                    $errorCount++
+                    Break
+                }
+            }
+        }
+    }
+} else {
+    Write-Output "Servidor encontrado: $($Server.Name)"
+    switch ($Action) {
+        "Start" {
+            try {
+                Write-Output "Iniciando o servidor PostgreSQL $($Server.Name)..."
+                Start-AzPostgreSqlFlexibleServer -ResourceGroupName $ResourceGroupName -Name $Server.Name -ErrorAction Stop
+            }
+            catch {
+                $ErrorMessage = $_.Exception.message
+                Write-Error "Erro ao iniciar o servidor PostgreSQL $($Server.Name): $ErrorMessage"
+                $errorCount++
+            }
+        }
+        "Stop" {
+            try {
+                Write-Output "Parando o servidor PostgreSQL $($Server.Name)..."
+                Stop-AzPostgreSqlFlexibleServer -ResourceGroupName $ResourceGroupName -Name $Server.Name -ErrorAction Stop
+            }
+            catch {
+                $ErrorMessage = $_.Exception.message
+                Write-Error "Erro ao parar o servidor PostgreSQL $($Server.Name): $ErrorMessage"
+                $errorCount++
+            }
+        }
+    }
+}
+
+$endOfScriptText = "Script terminado em $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
+if ($errorCount -gt 0) {
+    throw "Ocorreram erros durante a execução do script: $errorCount $endOfScriptText"
+}
+Write-Output $endOfScriptText
