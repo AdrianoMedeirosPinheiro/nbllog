@@ -26,7 +26,7 @@ def carregar_e_filtrar_tabela(new_page, tabela_selector='#tblsr'):
         print(row.inner_text())
     
     # Define os critérios para as linhas que deseja baixar
-    criterios_usuario = 'danilo'
+    criterios_usuario = 'medeiros'
     criterios_opcao = '455 - Fretes Expedidos/Recebidos - CTRCs'
     criterios_situacao = 'Concluído'
     
